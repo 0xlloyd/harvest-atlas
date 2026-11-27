@@ -1,0 +1,65 @@
+[
+  {
+    "id": "au-swapit-hne",
+    "title": "Swap It: Seasonal vegetable & fruit guide (2023 v2)",
+    "publisher": "Hunter New England Local Health District (NSW Health)",
+    "url": "https://www.swapit.hnehealth.nsw.gov.au/media/ilkbgj5a/swap-it-seasonal-vegetable-and-fruit-guide_2023_v2.pdf",
+    "kind": "government",
+    "licence": "unknown",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "au-nsw-epa-lfhw",
+    "title": "Food Smart: Pocket guide to seasonal fruits and vegetables",
+    "publisher": "NSW Environment Protection Authority (Love Food Hate Waste)",
+    "url": "https://www.lovefoodhatewaste.nsw.gov.au/sites/default/files/2020-09/0648%20DL%20Seasonal%20Food%202020%20V4%20230920.pdf",
+    "kind": "government",
+    "licence": "unknown",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "au-cancercouncil-nsw",
+    "title": "Eat It To Beat It: Buy at the right time for maximum flavour and value for money",
+    "publisher": "Cancer Council NSW",
+    "url": "https://www.cancercouncil.com.au/wp-content/uploads/2020/05/CCO_029-A4-Seasonality-copy.pdf",
+    "kind": "nonprofit",
+    "licence": "unknown",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "au-wa-livelighter-veg",
+    "title": "Seasonal vegetables grown in Western Australia (poster LL4197, 2019)",
+    "publisher": "LiveLighter (Government of Western Australia Department of Health and Cancer Council WA)",
+    "url": "https://cdn.livelighter.com.au//assets/resource/poster/LL%20Seasonality%20Veg%20poster%202019.pdf",
+    "kind": "government",
+    "licence": "unknown",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "au-wa-livelighter-fruit",
+    "title": "Seasonal fruit grown in Western Australia (poster LL4196, 2019)",
+    "publisher": "LiveLighter (Government of Western Australia Department of Health and Cancer Council WA)",
+    "url": "https://cdn.livelighter.com.au//assets/resource/poster/LL%20Seasonality%20Fruit%20poster%202019.pdf",
+    "kind": "government",
+    "licence": "unknown",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "au-vic-envvic-seasonal",
+    "title": "Eating Green: The Environment Victoria Guide to Seasonal Food",
+    "publisher": "Environment Victoria",
+    "url": "https://environmentvictoria.org.au/wp-content/uploads/2016/06/seasonal-food-calendar.pdf",
+    "kind": "nonprofit",
+    "licence": "unknown",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "au-tas-fgt-produce-guide",
+    "title": "Tasmanian Seasonal Produce Guide 2024/2025: Harvest and availability calendar",
+    "publisher": "Fruit Growers Tasmania",
+    "url": "https://fruitgrowerstas.org.au/assets/Seasonal_Produce_Guide_Summer_2024-25_Web.pdf",
+    "kind": "industry",
+    "licence": "all-rights-reserved",
+    "accessed": "2026-11-27"
+  }
+]

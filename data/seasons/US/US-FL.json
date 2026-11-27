@@ -1,0 +1,163 @@
+{
+  "region": "US-FL",
+  "entries": [
+    {
+      "produce": "aubergine",
+      "available": [1, 2, 3, 4, 5, 6, 10, 11, 12],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "avocado",
+      "available": [1, 2, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "blackberry",
+      "available": [4, 5, 6, 7],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "blueberry",
+      "available": [3, 4, 5],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "broccoli",
+      "available": [1, 2, 3, 4, 12],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "cabbage",
+      "available": [1, 2, 3, 4, 5, 12],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "carrot",
+      "available": [1, 2, 3, 4, 5, 6, 11, 12],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "cauliflower",
+      "available": [1, 2, 3],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "celery",
+      "available": [1, 2, 3, 4, 5, 12],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "cucumber",
+      "available": [1, 2, 3, 4, 5, 6, 10, 11, 12],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "grapefruit",
+      "available": [1, 2, 3, 4, 5, 10, 11, 12],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "green-bean",
+      "available": [1, 2, 3, 4, 5, 6, 10, 11, 12],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium",
+      "note": "Chart row is \"Snap Beans\"."
+    },
+    {
+      "produce": "lettuce",
+      "available": [1, 2, 3, 4, 11, 12],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "mandarin",
+      "available": [1, 2, 3, 4, 9, 10, 11, 12],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium",
+      "note": "Chart row is \"Tangerine\"."
+    },
+    {
+      "produce": "mango",
+      "available": [5, 6, 7, 8, 9],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "melon",
+      "available": [3, 4, 5, 6, 7],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "orange",
+      "available": [1, 2, 3, 4, 5, 6, 9, 10, 11, 12],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "peach",
+      "available": [4, 5],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "pepper",
+      "available": [1, 2, 3, 4, 5, 6, 10, 11, 12],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "potato",
+      "available": [2, 3, 4, 5, 6],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "radish",
+      "available": [1, 2, 3, 4, 5, 11, 12],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "spinach",
+      "available": [1, 2, 3, 4, 11, 12],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "strawberry",
+      "available": [1, 2, 3, 4, 12],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "sweetcorn",
+      "available": [1, 2, 3, 4, 5, 11, 12],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "tomato",
+      "available": [1, 2, 3, 4, 5, 6, 10, 11, 12],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "watermelon",
+      "available": [3, 4, 5, 6, 7, 10, 11, 12],
+      "sources": ["us-fl-fdacs-availability"],
+      "confidence": "medium"
+    }
+  ]
+}

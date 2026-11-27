@@ -1,0 +1,199 @@
+{
+  "region": "US-CO",
+  "entries": [
+    {
+      "produce": "apple",
+      "available": [8, 9, 10, 11],
+      "storage": [1, 2, 3, 12],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium",
+      "note": "Source: storage to early March."
+    },
+    {
+      "produce": "apricot",
+      "available": [7, 8],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "asparagus",
+      "available": [5, 6],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "aubergine",
+      "available": [8, 9, 10],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "beetroot",
+      "available": [7, 8, 9, 10, 11],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "broccoli",
+      "available": [7, 8, 9, 10],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "cabbage",
+      "available": [7, 8, 9, 10, 11],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "carrot",
+      "available": [6, 7, 8, 9, 10, 11],
+      "storage": [1, 2, 3, 4, 12],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium",
+      "note": "Source: storage to April."
+    },
+    {
+      "produce": "cauliflower",
+      "available": [7, 8, 9, 10],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "celery",
+      "available": [7, 8, 9, 10],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "chard",
+      "available": [6, 7, 8, 9, 10],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "cherry",
+      "available": [6, 7],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "chilli",
+      "available": [8, 9, 10],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "green-bean",
+      "available": [7, 8, 9],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "kale",
+      "available": [5, 6, 7, 8, 9, 10],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "lettuce",
+      "available": [5, 6, 7, 8, 9, 10],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "melon",
+      "available": [7, 8, 9],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium",
+      "note": "Cantaloupe."
+    },
+    {
+      "produce": "onion",
+      "available": [8, 9, 10, 11],
+      "storage": [1, 2, 3, 12],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium",
+      "note": "Source: to mid-March, storage included."
+    },
+    {
+      "produce": "peach",
+      "available": [7, 8, 9],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "pear",
+      "available": [8, 9, 10],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "pepper",
+      "available": [8, 9, 10],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "plum",
+      "available": [8, 9],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "potato",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium",
+      "note": "Source lists all year (includes stored crop; not split)."
+    },
+    {
+      "produce": "pumpkin",
+      "available": [9, 10],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "raspberry",
+      "available": [8, 9, 10],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "rocket",
+      "available": [5, 6, 7, 8, 9, 10],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "spinach",
+      "available": [5, 6, 7, 8, 9, 10, 11],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "strawberry",
+      "available": [6, 7, 8, 9],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "sweetcorn",
+      "available": [7, 8, 9, 10],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "turnip",
+      "available": [5, 6, 7, 8, 9, 10],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "watermelon",
+      "available": [7, 8, 9],
+      "sources": ["us-co-cda-produce-calendar"],
+      "confidence": "medium"
+    }
+  ]
+}

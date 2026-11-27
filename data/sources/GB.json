@@ -1,0 +1,56 @@
+[
+  {
+    "id": "gb-ncgm-calendar",
+    "title": "British seasonal fruit & veg calendar",
+    "publisher": "New Covent Garden Market (Covent Garden Market Authority, a Defra-sponsored public corporation)",
+    "url": "https://newcoventgardenmarket.com/wp-content/uploads/2022/02/British-seasonal-fruit-veg-calendar-new-covent-garden-market-2.pdf",
+    "kind": "government",
+    "licence": "unknown",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "gb-nfu-seasonality",
+    "title": "Back British Farming seasonality chart",
+    "publisher": "National Farmers' Union (NFU)",
+    "url": "https://www.nfuonline.com/updates-and-information/back-british-farming-seasonality-chart/",
+    "kind": "industry",
+    "licence": "all-rights-reserved",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "gb-vegsoc-seasonal",
+    "title": "Seasonal UK grown produce",
+    "publisher": "The Vegetarian Society of the United Kingdom",
+    "url": "https://vegsoc.org/blog/seasonal-uk-grown-produce/",
+    "kind": "nonprofit",
+    "licence": "all-rights-reserved",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "gb-sfd-seasonality",
+    "title": "Seasonality calendar (Scottish growing seasons)",
+    "publisher": "Scotland Food & Drink",
+    "url": "https://foodanddrink.scot/media/aughzmbk/seasonality-calendar.pdf",
+    "kind": "industry",
+    "licence": "unknown",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "gb-woodland-trust-wild-garlic",
+    "title": "Wild garlic (Allium ursinum)",
+    "publisher": "Woodland Trust",
+    "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/plants/wild-flowers/wild-garlic/",
+    "kind": "nonprofit",
+    "licence": "all-rights-reserved",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "gb-gbc-wild-garlic",
+    "title": "How to forage wild garlic",
+    "publisher": "Great British Chefs",
+    "url": "https://www.greatbritishchefs.com/features/how-to-forage-wild-garlic",
+    "kind": "media",
+    "licence": "all-rights-reserved",
+    "accessed": "2026-11-27"
+  }
+]

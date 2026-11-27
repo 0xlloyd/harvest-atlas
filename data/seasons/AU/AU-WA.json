@@ -1,0 +1,418 @@
+{
+  "region": "AU-WA",
+  "entries": [
+    {
+      "produce": "apple",
+      "peak": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "apricot",
+      "peak": [1, 2, 12],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "artichoke",
+      "peak": [9, 10, 11],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "asparagus",
+      "peak": [9, 10, 11],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "aubergine",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "avocado",
+      "peak": [6, 7, 8, 9, 10, 11],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "beetroot",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "blackberry",
+      "peak": [1, 2, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "blueberry",
+      "peak": [1, 2, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "broad-bean",
+      "peak": [9, 10, 11],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "broccoli",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "brussels-sprout",
+      "peak": [6, 7, 8, 9, 10, 11],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "cabbage",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "carrot",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "cauliflower",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "celery",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "chard",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "cherry",
+      "peak": [1, 2, 12],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "chilli",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "courgette",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "cucumber",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "fig",
+      "peak": [3, 4, 5],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "garlic",
+      "peak": [1, 2, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "grape",
+      "peak": [1, 2, 3, 4, 5, 12],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "grapefruit",
+      "peak": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Pink/red grapefruit spring, autumn and winter; white grapefruit winter."
+    },
+    {
+      "produce": "green-bean",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons. Listed as stringless beans."
+    },
+    {
+      "produce": "kiwi",
+      "peak": [3, 4, 5, 6, 7, 8],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "leek",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "lemon",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "lettuce",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "lime",
+      "peak": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "mandarin",
+      "peak": [6, 7, 8, 9, 10, 11],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "mango",
+      "peak": [1, 2, 3, 4, 5, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "melon",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons. Rockmelon."
+    },
+    {
+      "produce": "nectarine",
+      "peak": [1, 2, 12],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "onion",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "orange",
+      "peak": [1, 2, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "parsnip",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "passionfruit",
+      "peak": [3, 4, 5, 9, 10, 11],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "pea",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "peach",
+      "peak": [1, 2, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "pear",
+      "peak": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "pepper",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "plum",
+      "peak": [1, 2, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "potato",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "pumpkin",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "radish",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "raspberry",
+      "peak": [9, 10, 11],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "rhubarb",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "runner-bean",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "spinach",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "spring-onion",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "strawberry",
+      "peak": [6, 7, 8, 9, 10, 11],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia."
+    },
+    {
+      "produce": "swede",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "sweet-potato",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "sweetcorn",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "tomato",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "turnip",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-veg"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    },
+    {
+      "produce": "watermelon",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-wa-livelighter-fruit"],
+      "confidence": "medium",
+      "note": "Chart marks peak season by whole season (spring Sep-Nov, summer Dec-Feb, autumn Mar-May, winter Jun-Aug) for produce grown in Western Australia. Marked in all four seasons."
+    }
+  ]
+}

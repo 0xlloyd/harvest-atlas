@@ -1,0 +1,45 @@
+name: List my farm or market
+description: Add your business to Harvest Atlas's local producers.
+title: 'Producer: '
+labels: [producer]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Business details only, please: no personal names, emails or phone numbers. Everything here is public and licensed under ODbL. You can ask to be removed at any time.
+  - type: input
+    id: name
+    attributes: { label: Business name }
+    validations: { required: true }
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind
+      options: [farm, market, csa, farm-shop, cooperative, pick-your-own]
+    validations: { required: true }
+  - type: input
+    id: locality
+    attributes: { label: Town or village, description: Not a street address. }
+    validations: { required: true }
+  - type: input
+    id: region
+    attributes:
+      { label: Country and region, description: 'For example "England", "California", "Victoria".' }
+    validations: { required: true }
+  - type: input
+    id: website
+    attributes: { label: Website (https) }
+  - type: textarea
+    id: produce
+    attributes: { label: What you grow or sell }
+  - type: input
+    id: months
+    attributes:
+      { label: Months you are open, description: 'For example "May to October", or "all year".' }
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Consent
+      options:
+        - label: I represent this business and agree to it being listed publicly under the ODbL licence.
+          required: true

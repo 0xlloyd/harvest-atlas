@@ -1,0 +1,358 @@
+{
+  "region": "US-WA",
+  "entries": [
+    {
+      "produce": "apple",
+      "peak": [9, 10, 11],
+      "storage": [1, 2, 3, 4, 5, 6, 7, 8, 12],
+      "sources": ["us-wa-wsda-fruits"],
+      "confidence": "medium",
+      "note": "Source: peak harvest Sep–Nov, otherwise stored and available from local sources."
+    },
+    {
+      "produce": "apricot",
+      "available": [6, 7, 8],
+      "sources": ["us-wa-wsda-fruits"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "artichoke",
+      "available": [6, 7, 8, 9, 10],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "asparagus",
+      "available": [4, 5, 6],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "beetroot",
+      "peak": [5, 6, 7, 8, 9],
+      "storage": [1, 2, 3, 4, 10, 11, 12],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium",
+      "note": "Source: peak harvest, otherwise stored."
+    },
+    {
+      "produce": "blackberry",
+      "available": [6, 7, 8],
+      "sources": ["us-wa-wsda-fruits"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "blueberry",
+      "available": [7, 8, 9],
+      "sources": ["us-wa-wsda-fruits"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "broccoli",
+      "available": [6, 7, 8, 9, 10, 11],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "brussels-sprout",
+      "available": [1, 2, 3, 10, 11, 12],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "butternut-squash",
+      "peak": [10, 11, 12],
+      "available": [9],
+      "storage": [1, 2, 3],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium",
+      "note": "Source: peak harvest, otherwise stored."
+    },
+    {
+      "produce": "cabbage",
+      "available": [7, 8, 9, 10, 11, 12],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "carrot",
+      "peak": [6, 7, 8, 9, 10],
+      "storage": [1, 2, 3, 4, 5, 11, 12],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium",
+      "note": "Source: peak harvest, otherwise stored and available from local sources."
+    },
+    {
+      "produce": "cauliflower",
+      "available": [6, 7, 8, 9, 10, 11],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "celeriac",
+      "available": [1, 2, 3, 10, 11, 12],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "celery",
+      "available": [9, 10],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "chard",
+      "available": [1, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "cherry",
+      "available": [6, 7, 8],
+      "sources": ["us-wa-wsda-fruits"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "courgette",
+      "available": [6, 7, 8, 9, 10],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "cucumber",
+      "available": [6, 7, 8, 9, 10],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "fennel",
+      "available": [6, 7, 8, 9, 10, 11],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "garlic",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["us-wa-wsda-fruits"],
+      "confidence": "medium",
+      "note": "Source lists all year (includes stored crop)."
+    },
+    {
+      "produce": "grape",
+      "available": [8, 9, 10, 11],
+      "sources": ["us-wa-wsda-fruits"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "green-bean",
+      "available": [7, 8, 9, 10],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "jerusalem-artichoke",
+      "available": [1, 2, 3, 4, 5, 10, 11, 12],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "kale",
+      "peak": [9, 10, 11],
+      "available": [1, 2, 3, 4, 7, 8, 12],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium",
+      "note": "Source marks Sep–Nov as peak harvest."
+    },
+    {
+      "produce": "kohlrabi",
+      "available": [6, 7, 8, 9, 10, 11],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "leek",
+      "available": [1, 2, 3, 4, 9, 10, 11, 12],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "lettuce",
+      "available": [5, 6, 7, 8, 9, 10, 11],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium",
+      "note": "Loose-leaf lettuce; butterhead, romaine and iceberg Jul–Oct."
+    },
+    {
+      "produce": "melon",
+      "available": [8, 9],
+      "sources": ["us-wa-wsda-fruits"],
+      "confidence": "medium",
+      "note": "Cantaloupe."
+    },
+    {
+      "produce": "nectarine",
+      "available": [6, 7, 8, 9],
+      "sources": ["us-wa-wsda-fruits"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "onion",
+      "available": [1, 2, 3, 7, 8, 9, 10, 11, 12],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium",
+      "note": "Yellow/storage onions; source does not split harvest from storage."
+    },
+    {
+      "produce": "parsnip",
+      "available": [1, 2, 3, 4, 10, 11, 12],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "pea",
+      "available": [5, 6, 7, 8, 9, 10],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium",
+      "note": "Snap/snow peas May–Aug, shell peas Jul–Oct."
+    },
+    {
+      "produce": "peach",
+      "available": [7, 8, 9],
+      "sources": ["us-wa-wsda-fruits"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "pear",
+      "peak": [9, 10, 11],
+      "storage": [1, 2, 3, 4, 5, 6, 7, 8, 12],
+      "sources": ["us-wa-wsda-fruits"],
+      "confidence": "medium",
+      "note": "Source: peak harvest Sep–Nov, otherwise stored and available from local sources."
+    },
+    {
+      "produce": "pepper",
+      "available": [7, 8, 9, 10],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "plum",
+      "available": [6, 7, 8, 9],
+      "sources": ["us-wa-wsda-fruits"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "potato",
+      "available": [1, 2, 3, 4, 5, 8, 9, 10, 11, 12],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium",
+      "note": "Source lists Aug–May without splitting harvest from storage."
+    },
+    {
+      "produce": "pumpkin",
+      "peak": [10, 11],
+      "available": [9],
+      "storage": [1, 12],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium",
+      "note": "Source: peak harvest, otherwise stored."
+    },
+    {
+      "produce": "quince",
+      "available": [9, 10, 11, 12],
+      "sources": ["us-wa-wsda-fruits"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "radish",
+      "available": [4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "raspberry",
+      "available": [6, 7, 8],
+      "sources": ["us-wa-wsda-fruits"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "red-cabbage",
+      "available": [7, 8, 9, 10, 11, 12],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "rhubarb",
+      "available": [4, 5, 6, 7, 8],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "rocket",
+      "available": [5, 6, 7, 8, 9, 10],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "spinach",
+      "available": [4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "strawberry",
+      "available": [5, 6, 7, 8, 9],
+      "sources": ["us-wa-wsda-fruits"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "swede",
+      "peak": [10, 11],
+      "available": [9],
+      "storage": [1, 2, 3, 12],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium",
+      "note": "Source: peak harvest, otherwise stored."
+    },
+    {
+      "produce": "sweet-potato",
+      "peak": [9, 10, 11],
+      "storage": [1, 2, 3, 12],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium",
+      "note": "Source: peak harvest, otherwise stored."
+    },
+    {
+      "produce": "sweetcorn",
+      "available": [7, 8, 9, 10],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "tomato",
+      "available": [7, 8, 9, 10, 11],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "turnip",
+      "peak": [1, 10, 11, 12],
+      "available": [2, 3, 4, 5, 6, 7, 8, 9],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium",
+      "note": "Source marks Oct–Jan as peak and says the crop is stored and available in other months."
+    },
+    {
+      "produce": "watercress",
+      "available": [6, 7, 8],
+      "sources": ["us-wa-wsda-vegetables"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "watermelon",
+      "available": [8, 9, 10],
+      "sources": ["us-wa-wsda-fruits"],
+      "confidence": "medium"
+    }
+  ]
+}

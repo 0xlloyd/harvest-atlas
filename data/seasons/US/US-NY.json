@@ -1,0 +1,271 @@
+{
+  "region": "US-NY",
+  "entries": [
+    {
+      "produce": "apple",
+      "available": [7, 8, 9, 10, 11],
+      "storage": [1, 2, 3, 4, 5, 6, 12],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium",
+      "note": "Harvest Jul–Nov; chart shows availability year-round, the rest treated as storage."
+    },
+    {
+      "produce": "asparagus",
+      "available": [5, 6],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "aubergine",
+      "available": [8, 9, 10, 11],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "beetroot",
+      "available": [6, 7, 8, 9, 10, 11],
+      "storage": [1, 2, 12],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "blackberry",
+      "available": [8, 9],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "blueberry",
+      "available": [7, 8, 9],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "broccoli",
+      "available": [6, 7, 8, 9, 10, 11],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "brussels-sprout",
+      "available": [9, 10, 11],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "cabbage",
+      "available": [6, 7, 8, 9, 10, 11, 12],
+      "storage": [1, 2, 3],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "carrot",
+      "available": [7, 8, 9, 10, 11],
+      "storage": [1, 2, 3, 4, 12],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "cauliflower",
+      "available": [8, 9, 10, 11],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "celery",
+      "available": [8, 9, 10, 11],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "chard",
+      "available": [6, 7, 8, 9, 10],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "cherry",
+      "available": [6, 7],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium",
+      "note": "Sweet cherries late Jun–Jul; tart cherries Jul."
+    },
+    {
+      "produce": "courgette",
+      "available": [6, 7, 8, 9, 10],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "cucumber",
+      "available": [7, 8, 9, 10, 11],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "garlic",
+      "available": [6, 7],
+      "storage": [8, 9, 10, 11],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "grape",
+      "available": [8, 9, 10],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "green-bean",
+      "available": [7, 8, 9, 10],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium",
+      "note": "Chart row is \"Beans, Snap\"."
+    },
+    {
+      "produce": "kale",
+      "available": [8, 9, 10, 11],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "leek",
+      "available": [8, 9, 10],
+      "storage": [11, 12],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "lettuce",
+      "available": [5, 6, 7, 8, 9, 10],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "melon",
+      "available": [8, 9],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium",
+      "note": "Cantaloupes."
+    },
+    {
+      "produce": "onion",
+      "available": [7, 8, 9, 10, 11],
+      "storage": [1, 2, 3, 4, 5, 6, 12],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "parsnip",
+      "available": [4, 5, 10, 11, 12],
+      "storage": [1, 2, 3],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium",
+      "note": "Spring-dug (Apr–May) and fall harvests."
+    },
+    {
+      "produce": "pea",
+      "available": [6, 7, 9, 10],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "peach",
+      "available": [7, 8, 9],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "pear",
+      "available": [8, 9, 10],
+      "storage": [1, 2, 11, 12],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium",
+      "note": "Availability period beyond harvest treated as storage."
+    },
+    {
+      "produce": "pepper",
+      "available": [7, 8, 9, 10],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "plum",
+      "available": [7, 8, 9, 10],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium",
+      "note": "Harvest Jul–Sep; availability into early Oct."
+    },
+    {
+      "produce": "potato",
+      "available": [7, 8, 9, 10],
+      "storage": [1, 2, 3, 4, 5, 6, 11, 12],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "pumpkin",
+      "available": [9, 10],
+      "storage": [11],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "radish",
+      "available": [5, 6, 7, 8, 9],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "raspberry",
+      "available": [7, 9, 10],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium",
+      "note": "Summer crop in July, fall crop Sep–Oct."
+    },
+    {
+      "produce": "rhubarb",
+      "available": [5, 6, 7],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "spinach",
+      "available": [5, 6, 7, 8, 9, 10],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "strawberry",
+      "available": [6, 7],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "sweetcorn",
+      "available": [8, 9, 10, 11],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "tomato",
+      "available": [6, 7, 8, 9, 10],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "turnip",
+      "available": [8, 9, 10, 11],
+      "storage": [1, 2, 3, 12],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "watermelon",
+      "available": [9, 10],
+      "sources": ["us-ny-agm-harvest-chart"],
+      "confidence": "medium"
+    }
+  ]
+}

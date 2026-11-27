@@ -1,0 +1,22 @@
+name: Season correction
+description: A month is wrong, or produce is missing for a region.
+title: 'Season: '
+labels: [data]
+body:
+  - type: input
+    id: what
+    attributes: { label: Produce and region, description: 'For example "asparagus in GB".' }
+    validations: { required: true }
+  - type: textarea
+    id: change
+    attributes: { label: What should change }
+    validations: { required: true }
+  - type: input
+    id: source
+    attributes:
+      {
+        label: Source,
+        description: A link to the calendar,
+        agency or extension page that shows it.,
+      }
+    validations: { required: true }

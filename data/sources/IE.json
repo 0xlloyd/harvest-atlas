@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ie-bordbia-best-in-season",
+    "title": "Best in Season fruit and vegetable calendar",
+    "publisher": "Bord Bia (Irish Food Board)",
+    "url": "https://www.bordbia.ie/whats-in-season/best-in-season/calendar/",
+    "kind": "government",
+    "licence": "unknown",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "ie-epa-stopfoodwaste-calendar",
+    "title": "Seasonal Food Calendar (2020)",
+    "publisher": "Environmental Protection Agency, Stop Food Waste programme",
+    "url": "https://stopfoodwaste.ie/wp-content/uploads/2020/01/Print-Seasonal-Calendar-2020-2.pdf",
+    "kind": "government",
+    "licence": "unknown",
+    "accessed": "2026-11-27"
+  }
+]

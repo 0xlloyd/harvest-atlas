@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/0xlloyd/harvest-atlas/main/schema/sources.schema.json",
+  "title": "Sources",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "title", "publisher", "url", "kind", "licence", "accessed"],
+    "additionalProperties": false,
+    "properties": {
+      "id": { "$ref": "common.schema.json#/$defs/sourceId" },
+      "title": { "type": "string", "minLength": 1 },
+      "publisher": { "type": "string", "minLength": 1 },
+      "url": { "type": "string", "format": "uri", "pattern": "^https?://" },
+      "kind": { "enum": ["government", "extension", "industry", "nonprofit", "media", "other"] },
+      "licence": { "type": "string", "minLength": 1 },
+      "accessed": { "$ref": "common.schema.json#/$defs/date" },
+      "note": { "type": "string" }
+    }
+  }
+}

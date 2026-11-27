@@ -1,0 +1,304 @@
+{
+  "region": "US-MI",
+  "entries": [
+    {
+      "produce": "apple",
+      "available": [7, 8, 9, 10, 11, 12],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium",
+      "note": "Summer apples Jul–Aug, fall apples late Aug–Dec."
+    },
+    {
+      "produce": "apricot",
+      "available": [7, 8],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "asparagus",
+      "available": [5, 6],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "aubergine",
+      "available": [7, 8, 9, 10],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "beetroot",
+      "available": [7, 8, 9, 10],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "blackberry",
+      "available": [8, 9],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "blueberry",
+      "available": [7, 8, 9],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "broccoli",
+      "available": [7, 8, 9, 10],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "brussels-sprout",
+      "available": [10, 11],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "cabbage",
+      "available": [7, 8, 9, 10],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "carrot",
+      "available": [7, 8, 9, 10],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "cauliflower",
+      "available": [8, 9, 10],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "celeriac",
+      "available": [8, 9, 10],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "celery",
+      "available": [7, 8, 9, 10, 11, 12],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "chard",
+      "available": [6, 7, 8, 9, 10],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "cherry",
+      "available": [7, 8],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium",
+      "note": "Tart cherries July; sweet cherries Jul–Aug."
+    },
+    {
+      "produce": "courgette",
+      "available": [6, 7, 8, 9],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium",
+      "note": "Summer squash including zucchini."
+    },
+    {
+      "produce": "cucumber",
+      "available": [7, 8, 9],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium",
+      "note": "Field cucumbers; greenhouse cucumbers listed Jun–Oct."
+    },
+    {
+      "produce": "fennel",
+      "available": [6, 7, 8, 9],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "garlic",
+      "available": [7, 8, 9, 10, 11, 12],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "grape",
+      "available": [9, 10],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "green-bean",
+      "available": [7, 8, 9],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "kale",
+      "available": [6, 7, 8, 9, 10],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "kohlrabi",
+      "available": [7, 8, 9, 10, 11],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "leek",
+      "available": [10, 11],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "lettuce",
+      "available": [6, 7, 8, 9],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "melon",
+      "available": [8, 9],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium",
+      "note": "Cantaloupe and muskmelon."
+    },
+    {
+      "produce": "nectarine",
+      "available": [8, 9],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "onion",
+      "available": [8, 9, 10, 11, 12],
+      "storage": [1],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium",
+      "note": "Separate January segment treated as stored crop."
+    },
+    {
+      "produce": "parsnip",
+      "available": [9, 10],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "pea",
+      "available": [6],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium",
+      "note": "Sugar snap peas."
+    },
+    {
+      "produce": "peach",
+      "available": [7, 8, 9],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "pear",
+      "available": [8, 9],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "pepper",
+      "available": [7, 8, 9, 10],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "plum",
+      "available": [8, 9],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "potato",
+      "available": [7, 8, 9, 10, 11, 12],
+      "storage": [1, 2, 3],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium",
+      "note": "Separate Jan–Mar segment treated as stored crop."
+    },
+    {
+      "produce": "pumpkin",
+      "available": [9, 10],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "radish",
+      "available": [6, 7, 8, 9, 10],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "raspberry",
+      "available": [7, 8, 9],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium",
+      "note": "Red raspberries: July and late Aug–Sep."
+    },
+    {
+      "produce": "rhubarb",
+      "available": [5],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "shallot",
+      "available": [7, 8, 9, 10, 11, 12],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "spinach",
+      "available": [6, 7, 8, 9, 10],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "strawberry",
+      "available": [6],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "swede",
+      "available": [9, 10, 11],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "sweetcorn",
+      "available": [7, 8, 9],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "tomato",
+      "available": [7, 8, 9, 10],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "turnip",
+      "available": [7, 8, 9, 10, 11],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "watermelon",
+      "available": [9],
+      "sources": ["us-mi-msue-availability-lp"],
+      "confidence": "medium"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/0xlloyd/harvest-atlas/main/schema/regions.schema.json",
+  "title": "Regions",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["code", "name", "hemisphere", "locale"],
+    "additionalProperties": false,
+    "properties": {
+      "code": { "$ref": "common.schema.json#/$defs/regionCode" },
+      "name": { "type": "string", "minLength": 1 },
+      "parent": { "$ref": "common.schema.json#/$defs/regionCode" },
+      "hemisphere": { "enum": ["north", "south"] },
+      "locale": { "$ref": "common.schema.json#/$defs/locale" }
+    }
+  }
+}

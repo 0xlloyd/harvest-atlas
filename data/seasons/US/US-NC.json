@@ -1,0 +1,241 @@
+{
+  "region": "US-NC",
+  "entries": [
+    {
+      "produce": "apple",
+      "available": [8, 9, 10, 11, 12],
+      "storage": [1, 2],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium",
+      "note": "Chart shows Jan–Feb after the Aug–Dec harvest; treated here as stored crop."
+    },
+    {
+      "produce": "asparagus",
+      "available": [3, 4],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "aubergine",
+      "available": [6, 7, 8],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "beetroot",
+      "available": [5, 6, 10, 11, 12],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "blackberry",
+      "available": [6, 7, 9],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "blueberry",
+      "available": [5, 6, 7],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "broccoli",
+      "available": [4, 5],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "cabbage",
+      "available": [5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "carrot",
+      "available": [1, 6, 7, 12],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "courgette",
+      "available": [5, 6, 7, 8, 9],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "cucumber",
+      "available": [6, 7, 8, 9, 10, 11],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "fig",
+      "available": [7, 8, 9],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "garlic",
+      "available": [7, 8],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "grape",
+      "available": [8, 9, 10],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium",
+      "note": "Muscadine grapes."
+    },
+    {
+      "produce": "green-bean",
+      "available": [6, 7, 8, 9],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium",
+      "note": "Chart row is \"Snap Beans\"."
+    },
+    {
+      "produce": "kale",
+      "available": [5, 6, 10, 11, 12],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "lettuce",
+      "available": [4, 5, 10, 11],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium",
+      "note": "Lettuce and romaine rows agree."
+    },
+    {
+      "produce": "melon",
+      "available": [7, 8],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium",
+      "note": "Cantaloupes."
+    },
+    {
+      "produce": "nectarine",
+      "available": [7, 8],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "okra",
+      "available": [7, 8],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "onion",
+      "available": [6, 7],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "pea",
+      "available": [5],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium",
+      "note": "Green peas; snow peas May–Jun and Oct–Nov."
+    },
+    {
+      "produce": "peach",
+      "available": [6, 7, 8, 9],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "pear",
+      "available": [8, 9, 10],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "pepper",
+      "available": [6, 7, 8],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "plum",
+      "available": [6, 7, 8],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "potato",
+      "available": [6, 7],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "pumpkin",
+      "available": [9, 10],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "radish",
+      "available": [4, 5, 6, 10, 11],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "raspberry",
+      "available": [6, 9, 10],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "spinach",
+      "available": [1, 2, 3, 4, 5, 10, 11, 12],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "spring-onion",
+      "available": [6, 7, 8, 9],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "strawberry",
+      "available": [4, 5, 6],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "sweet-potato",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium",
+      "note": "Chart shows all year (includes cured stored crop; not split)."
+    },
+    {
+      "produce": "sweetcorn",
+      "available": [6, 7, 8, 9],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "tomato",
+      "available": [6, 7, 8, 9, 10],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "turnip",
+      "available": [4, 5, 6, 10, 11, 12],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "watermelon",
+      "available": [7, 8],
+      "sources": ["us-nc-ncda-availability"],
+      "confidence": "medium"
+    }
+  ]
+}

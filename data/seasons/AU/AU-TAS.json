@@ -1,0 +1,124 @@
+{
+  "region": "AU-TAS",
+  "entries": [
+    {
+      "produce": "apple",
+      "available": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["au-tas-fgt-produce-guide"],
+      "confidence": "low",
+      "note": "Single industry calendar of Tasmanian harvest and farm-gate availability. The calendar combines harvest and availability; later months are likely cool-stored fruit, but the source does not separate them."
+    },
+    {
+      "produce": "apricot",
+      "available": [1, 2, 12],
+      "sources": ["au-tas-fgt-produce-guide"],
+      "confidence": "low",
+      "note": "Single industry calendar of Tasmanian harvest and farm-gate availability."
+    },
+    {
+      "produce": "avocado",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8],
+      "sources": ["au-tas-fgt-produce-guide"],
+      "confidence": "low",
+      "note": "Single industry calendar of Tasmanian harvest and farm-gate availability."
+    },
+    {
+      "produce": "blackberry",
+      "available": [1, 2, 3, 4, 5, 12],
+      "sources": ["au-tas-fgt-produce-guide"],
+      "confidence": "low",
+      "note": "Single industry calendar of Tasmanian harvest and farm-gate availability."
+    },
+    {
+      "produce": "blueberry",
+      "available": [1, 2, 3, 4],
+      "sources": ["au-tas-fgt-produce-guide"],
+      "confidence": "low",
+      "note": "Single industry calendar of Tasmanian harvest and farm-gate availability."
+    },
+    {
+      "produce": "broccoli",
+      "available": [1, 2, 3, 4, 5, 9, 10, 11, 12],
+      "sources": ["au-tas-fgt-produce-guide"],
+      "confidence": "low",
+      "note": "Single industry calendar of Tasmanian harvest and farm-gate availability."
+    },
+    {
+      "produce": "brussels-sprout",
+      "available": [5, 6, 7, 8],
+      "sources": ["au-tas-fgt-produce-guide"],
+      "confidence": "low",
+      "note": "Single industry calendar of Tasmanian harvest and farm-gate availability."
+    },
+    {
+      "produce": "carrot",
+      "available": [1, 2, 3, 4, 5, 6],
+      "sources": ["au-tas-fgt-produce-guide"],
+      "confidence": "low",
+      "note": "Single industry calendar of Tasmanian harvest and farm-gate availability."
+    },
+    {
+      "produce": "cherry",
+      "available": [1, 2, 12],
+      "sources": ["au-tas-fgt-produce-guide"],
+      "confidence": "low",
+      "note": "Single industry calendar of Tasmanian harvest and farm-gate availability."
+    },
+    {
+      "produce": "garlic",
+      "available": [1, 2, 11, 12],
+      "sources": ["au-tas-fgt-produce-guide"],
+      "confidence": "low",
+      "note": "Single industry calendar of Tasmanian harvest and farm-gate availability."
+    },
+    {
+      "produce": "green-bean",
+      "available": [1, 2, 3, 4],
+      "sources": ["au-tas-fgt-produce-guide"],
+      "confidence": "low",
+      "note": "Single industry calendar of Tasmanian harvest and farm-gate availability. Listed as beans."
+    },
+    {
+      "produce": "pear",
+      "available": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["au-tas-fgt-produce-guide"],
+      "confidence": "low",
+      "note": "Single industry calendar of Tasmanian harvest and farm-gate availability. The calendar combines harvest and availability; later months are likely cool-stored fruit, but the source does not separate them."
+    },
+    {
+      "produce": "pepper",
+      "available": [1, 2, 3, 4, 5, 12],
+      "sources": ["au-tas-fgt-produce-guide"],
+      "confidence": "low",
+      "note": "Single industry calendar of Tasmanian harvest and farm-gate availability."
+    },
+    {
+      "produce": "plum",
+      "available": [1, 12],
+      "sources": ["au-tas-fgt-produce-guide"],
+      "confidence": "low",
+      "note": "Single industry calendar of Tasmanian harvest and farm-gate availability."
+    },
+    {
+      "produce": "potato",
+      "available": [1, 2, 3, 4, 5, 6, 7, 10, 11, 12],
+      "sources": ["au-tas-fgt-produce-guide"],
+      "confidence": "low",
+      "note": "Single industry calendar of Tasmanian harvest and farm-gate availability."
+    },
+    {
+      "produce": "raspberry",
+      "available": [1, 2, 3, 4, 5, 11, 12],
+      "sources": ["au-tas-fgt-produce-guide"],
+      "confidence": "low",
+      "note": "Single industry calendar of Tasmanian harvest and farm-gate availability."
+    },
+    {
+      "produce": "strawberry",
+      "available": [1, 2, 3, 4, 5, 10, 11, 12],
+      "sources": ["au-tas-fgt-produce-guide"],
+      "confidence": "low",
+      "note": "Single industry calendar of Tasmanian harvest and farm-gate availability."
+    }
+  ]
+}

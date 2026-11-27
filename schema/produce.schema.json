@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/0xlloyd/harvest-atlas/main/schema/produce.schema.json",
+  "title": "Produce",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["id", "category", "names"],
+    "additionalProperties": false,
+    "properties": {
+      "id": { "$ref": "common.schema.json#/$defs/produceId" },
+      "category": { "enum": ["vegetable", "fruit", "herb", "nut", "mushroom"] },
+      "names": {
+        "type": "object",
+        "required": ["en-GB"],
+        "propertyNames": { "$ref": "common.schema.json#/$defs/locale" },
+        "additionalProperties": {
+          "type": "object",
+          "required": ["one", "other"],
+          "additionalProperties": false,
+          "properties": {
+            "one": { "type": "string", "minLength": 1 },
+            "other": { "type": "string", "minLength": 1 }
+          }
+        }
+      }
+    }
+  }
+}

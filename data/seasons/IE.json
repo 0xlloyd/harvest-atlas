@@ -1,0 +1,350 @@
+{
+  "region": "IE",
+  "entries": [
+    {
+      "produce": "apple",
+      "peak": [9, 10, 11],
+      "available": [8],
+      "storage": [12, 1, 2, 3, 4, 5],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high",
+      "note": "Bord Bia: dessert apples from store December to May; Bramley cooking apples from store until August, in season October. EPA marks stored apples December to March (cooking apples to May)."
+    },
+    {
+      "produce": "asparagus",
+      "peak": [5, 6],
+      "available": [4, 7],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high"
+    },
+    {
+      "produce": "aubergine",
+      "peak": [5, 6, 7, 8],
+      "available": [4, 9],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high",
+      "note": "EPA lists August only. Irish crop with a long season from April; neither source states the growing method, but this span implies glasshouse or tunnel production."
+    },
+    {
+      "produce": "beetroot",
+      "peak": [7, 8, 9, 10, 11, 12],
+      "available": [6],
+      "storage": [1, 2, 3, 4, 5],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high"
+    },
+    {
+      "produce": "blackberry",
+      "peak": [7, 8],
+      "available": [6, 9, 10],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high",
+      "note": "EPA lists July to October; Bord Bia in season July to August, coming in June and going out September."
+    },
+    {
+      "produce": "blackcurrant",
+      "peak": [6],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high",
+      "note": "Both sources list June only."
+    },
+    {
+      "produce": "blueberry",
+      "peak": [8],
+      "available": [7, 9],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high"
+    },
+    {
+      "produce": "broad-bean",
+      "peak": [6, 7, 8],
+      "available": [5, 9],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high",
+      "note": "EPA lists June only."
+    },
+    {
+      "produce": "broccoli",
+      "peak": [7, 8, 9, 10, 11],
+      "available": [6],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high",
+      "note": "Calabrese. Purple sprouting broccoli is in season November to March (Bord Bia), coming in or out in October and April. EPA also lists broccoli in January."
+    },
+    {
+      "produce": "brussels-sprout",
+      "peak": [9, 10, 11, 12, 1, 2, 3],
+      "available": [8],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high"
+    },
+    {
+      "produce": "butternut-squash",
+      "available": [10],
+      "sources": ["ie-epa-stopfoodwaste-calendar"],
+      "confidence": "medium",
+      "note": "EPA lists squash in October only."
+    },
+    {
+      "produce": "cabbage",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high",
+      "note": "Both sources list Irish cabbage every month."
+    },
+    {
+      "produce": "carrot",
+      "peak": [1, 2, 3, 4, 7, 8, 9, 10, 11, 12],
+      "storage": [6],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high",
+      "note": "Neither source lists carrots in May. EPA marks December to March carrots as from storage; Bord Bia lists them in season."
+    },
+    {
+      "produce": "cauliflower",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high",
+      "note": "Both sources list Irish cauliflower every month."
+    },
+    {
+      "produce": "celeriac",
+      "peak": [10, 11, 12, 1, 2],
+      "available": [3, 9],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high",
+      "note": "EPA marks January to March celeriac as from storage."
+    },
+    {
+      "produce": "celery",
+      "peak": [7, 8, 9, 10, 11],
+      "available": [1, 5, 6, 12],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high",
+      "note": "Bord Bia: in season July to November. EPA also lists January and May."
+    },
+    {
+      "produce": "chard",
+      "available": [4],
+      "sources": ["ie-epa-stopfoodwaste-calendar"],
+      "confidence": "medium",
+      "note": "EPA lists chard in April only."
+    },
+    {
+      "produce": "courgette",
+      "peak": [7, 8, 9],
+      "available": [6, 10],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high"
+    },
+    {
+      "produce": "cucumber",
+      "peak": [5, 6, 7, 8, 9],
+      "available": [4, 10],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high",
+      "note": "EPA lists June to September. Irish crop with a long season from April; neither source states the growing method, but this span implies glasshouse or tunnel production."
+    },
+    {
+      "produce": "fennel",
+      "peak": [7, 8, 9, 10],
+      "available": [6, 11],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high"
+    },
+    {
+      "produce": "garlic",
+      "available": [6, 7],
+      "storage": [10, 11, 12, 1],
+      "sources": ["ie-epa-stopfoodwaste-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "gooseberry",
+      "peak": [7],
+      "available": [6, 8],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high"
+    },
+    {
+      "produce": "green-bean",
+      "peak": [6, 7, 8, 9],
+      "available": [5, 10],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high",
+      "note": "French beans."
+    },
+    {
+      "produce": "kale",
+      "peak": [9, 10, 11, 12, 1, 2, 3],
+      "available": [4, 7, 8],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high"
+    },
+    {
+      "produce": "leek",
+      "peak": [9, 10, 11, 12, 1, 2, 3],
+      "available": [4, 8],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high"
+    },
+    {
+      "produce": "lettuce",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high",
+      "note": "Bord Bia lists lettuce in season every month; EPA lists March to November only, so winter supply is from Bord Bia alone and is likely protected cropping."
+    },
+    {
+      "produce": "onion",
+      "peak": [8, 9, 10],
+      "available": [5, 6, 7],
+      "storage": [11, 12, 1, 2, 3, 4],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high"
+    },
+    {
+      "produce": "parsnip",
+      "peak": [8, 9, 10, 11, 12, 1, 2, 3, 4, 5],
+      "available": [7],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high",
+      "note": "Bord Bia lists parsnips in season January to May; EPA marks January to April as from storage and omits May to July."
+    },
+    {
+      "produce": "pea",
+      "peak": [7, 8, 9],
+      "available": [6, 10],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high"
+    },
+    {
+      "produce": "pepper",
+      "peak": [5, 6, 7, 8, 9, 10],
+      "available": [4, 11],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high",
+      "note": "EPA lists July to October. Irish crop with a long season from April; neither source states the growing method, but this span implies glasshouse or tunnel production."
+    },
+    {
+      "produce": "potato",
+      "peak": [7, 8, 9, 10, 11],
+      "available": [5, 6],
+      "storage": [12, 1, 2, 3, 4],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high",
+      "note": "New-season potatoes from May or June; main crop (Rooster) in season September to November and from store through to July (Bord Bia)."
+    },
+    {
+      "produce": "pumpkin",
+      "peak": [10, 11],
+      "available": [9, 12],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high"
+    },
+    {
+      "produce": "radish",
+      "peak": [5, 6, 7, 8, 9, 10],
+      "available": [4, 11],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high"
+    },
+    {
+      "produce": "raspberry",
+      "peak": [6, 7, 8, 9, 10],
+      "available": [11],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high"
+    },
+    {
+      "produce": "redcurrant",
+      "available": [6],
+      "sources": ["ie-epa-stopfoodwaste-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "rhubarb",
+      "peak": [5, 6, 7, 8],
+      "available": [4, 9],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high"
+    },
+    {
+      "produce": "rocket",
+      "available": [11, 12, 1],
+      "sources": ["ie-epa-stopfoodwaste-calendar"],
+      "confidence": "medium",
+      "note": "EPA lists rocket in November to January only."
+    },
+    {
+      "produce": "runner-bean",
+      "peak": [6, 7, 8],
+      "available": [9],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high",
+      "note": "EPA lists August and September."
+    },
+    {
+      "produce": "shallot",
+      "peak": [6, 7, 8, 9, 10],
+      "available": [5],
+      "storage": [11, 12, 1, 2],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high"
+    },
+    {
+      "produce": "spinach",
+      "peak": [6, 7, 8, 9, 10],
+      "available": [2, 3, 5],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high",
+      "note": "Bord Bia: in season June to October. EPA also lists spinach in February and March."
+    },
+    {
+      "produce": "spring-onion",
+      "peak": [5, 6, 7, 8, 9, 10],
+      "available": [4, 11],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high",
+      "note": "Scallions."
+    },
+    {
+      "produce": "strawberry",
+      "peak": [5, 6, 7, 8, 9, 10],
+      "available": [4],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high",
+      "note": "EPA lists May to September. Irish crop with a long season from April; neither source states the growing method, but this span implies glasshouse or tunnel production."
+    },
+    {
+      "produce": "swede",
+      "peak": [7, 8, 9, 10, 11, 12, 1, 2, 3],
+      "available": [4, 6],
+      "storage": [5],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high",
+      "note": "Called turnip in Ireland; EPA lists it as Turnips."
+    },
+    {
+      "produce": "sweetcorn",
+      "available": [8, 9],
+      "sources": ["ie-epa-stopfoodwaste-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "tomato",
+      "peak": [5, 6, 7, 8, 9, 10],
+      "available": [4, 11],
+      "sources": ["ie-bordbia-best-in-season", "ie-epa-stopfoodwaste-calendar"],
+      "confidence": "high",
+      "note": "EPA lists June to October. Irish crop with a long season from April; neither source states the growing method, but this span implies glasshouse or tunnel production."
+    },
+    {
+      "produce": "turnip",
+      "available": [5],
+      "sources": ["ie-epa-stopfoodwaste-calendar"],
+      "confidence": "medium",
+      "note": "White turnip; EPA lists May only."
+    }
+  ]
+}

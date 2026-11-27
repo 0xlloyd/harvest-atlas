@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/0xlloyd/harvest-atlas/main/schema/producers.schema.json",
+  "title": "Producers and markets in one region",
+  "description": "Businesses only. No person's name, email, phone number or home address: fields outside this schema are rejected.",
+  "type": "object",
+  "required": ["region", "producers"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": { "type": "string" },
+    "region": { "$ref": "common.schema.json#/$defs/regionCode" },
+    "producers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "kind", "locality", "basis", "updated"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+          "name": { "type": "string", "minLength": 1 },
+          "kind": {
+            "enum": ["farm", "market", "csa", "farm-shop", "cooperative", "pick-your-own"]
+          },
+          "locality": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Town or village, not a street address."
+          },
+          "website": { "type": "string", "format": "uri", "pattern": "^https://" },
+          "produce": {
+            "type": "array",
+            "items": { "$ref": "common.schema.json#/$defs/produceId" },
+            "uniqueItems": true
+          },
+          "openMonths": { "$ref": "common.schema.json#/$defs/months" },
+          "location": {
+            "type": "object",
+            "description": "Rounded to 2 decimal places (about 1 km).",
+            "required": ["lat", "lon"],
+            "additionalProperties": false,
+            "properties": {
+              "lat": { "type": "number", "minimum": -90, "maximum": 90, "multipleOf": 0.01 },
+              "lon": { "type": "number", "minimum": -180, "maximum": 180, "multipleOf": 0.01 }
+            }
+          },
+          "basis": {
+            "description": "Why this listing may be here.",
+            "oneOf": [
+              {
+                "type": "object",
+                "required": ["type", "submitted"],
+                "additionalProperties": false,
+                "properties": {
+                  "type": { "const": "self-submitted" },
+                  "submitted": { "$ref": "common.schema.json#/$defs/date" }
+                }
+              },
+              {
+                "type": "object",
+                "required": ["type", "source"],
+                "additionalProperties": false,
+                "properties": {
+                  "type": { "const": "public-directory" },
+                  "source": { "$ref": "common.schema.json#/$defs/sourceId" }
+                }
+              }
+            ]
+          },
+          "updated": { "$ref": "common.schema.json#/$defs/date" }
+        }
+      }
+    }
+  }
+}

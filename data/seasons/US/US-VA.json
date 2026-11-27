@@ -1,0 +1,160 @@
+{
+  "region": "US-VA",
+  "entries": [
+    {
+      "produce": "apple",
+      "available": [7, 8, 9, 10, 11, 12],
+      "storage": [1, 2, 3, 4],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium",
+      "note": "Chart shows availability Jan–Apr after the Jul–Dec harvest; treated here as stored crop."
+    },
+    {
+      "produce": "asparagus",
+      "available": [4, 5, 6],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "aubergine",
+      "available": [7, 8, 9],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "beetroot",
+      "available": [5, 6, 7, 8, 9, 10, 11],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "blackberry",
+      "available": [6, 7, 8],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "blueberry",
+      "available": [6, 7, 8],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "broccoli",
+      "available": [9, 10, 11],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "cabbage",
+      "available": [6, 7, 8, 9, 10, 11],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "cucumber",
+      "available": [6, 7, 8, 9, 10],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "grape",
+      "available": [8, 9, 10],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "green-bean",
+      "available": [6, 7, 8, 9, 10],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "melon",
+      "available": [7, 8],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium",
+      "note": "Cantaloupes."
+    },
+    {
+      "produce": "nectarine",
+      "available": [7, 8],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "onion",
+      "available": [4, 5, 6],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "peach",
+      "available": [7, 8],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "pepper",
+      "available": [7, 8, 9, 10, 11],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "potato",
+      "available": [6, 7, 10, 11],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "pumpkin",
+      "available": [9, 10],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "raspberry",
+      "available": [6, 7, 8, 9, 10],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium",
+      "note": "Two crops: mid Jun–mid Jul and mid Aug–Oct."
+    },
+    {
+      "produce": "spinach",
+      "available": [3, 4, 5, 6, 10, 11, 12],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium",
+      "note": "Chart row is \"Greens/Spinach\"."
+    },
+    {
+      "produce": "strawberry",
+      "available": [4, 5, 6],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "sweet-potato",
+      "available": [1, 2, 10, 11, 12],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "sweetcorn",
+      "available": [7, 8],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "tomato",
+      "available": [7, 8, 9, 10],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "watermelon",
+      "available": [7, 8, 9],
+      "sources": ["us-va-vdacs-availability"],
+      "confidence": "medium"
+    }
+  ]
+}

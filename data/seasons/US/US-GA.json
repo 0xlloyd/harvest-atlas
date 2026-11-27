@@ -1,0 +1,309 @@
+{
+  "region": "US-GA",
+  "entries": [
+    {
+      "produce": "apple",
+      "available": [7, 8, 9, 10, 11],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium",
+      "note": "Source notes extended availability from storage, without months."
+    },
+    {
+      "produce": "asparagus",
+      "available": [4, 5, 6],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "aubergine",
+      "available": [6, 7, 8, 9, 10],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "beetroot",
+      "available": [1, 2, 3, 4, 5, 6, 10, 11, 12],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "blackberry",
+      "available": [5, 6, 7],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "blueberry",
+      "available": [5, 6, 7, 8],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "broccoli",
+      "available": [1, 2, 3, 4, 5, 10, 11, 12],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "brussels-sprout",
+      "available": [1, 2, 11, 12],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "cabbage",
+      "available": [1, 2, 3, 4, 5, 10, 11, 12],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "carrot",
+      "available": [1, 2, 3, 4, 5, 10, 11, 12],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "cauliflower",
+      "available": [1, 2, 3, 4, 5, 9, 10, 11, 12],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "celery",
+      "available": [1, 2, 10, 11, 12],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium",
+      "note": "Row covers celery and celery root."
+    },
+    {
+      "produce": "chard",
+      "available": [1, 2, 3, 4, 5, 10, 11, 12],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "chilli",
+      "available": [5, 6, 7, 8, 9, 10, 11],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium",
+      "note": "Sweet and hot peppers share one row; May and Nov limited."
+    },
+    {
+      "produce": "courgette",
+      "available": [5, 6, 7, 8, 9, 10, 11],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium",
+      "note": "Summer squash including zucchini."
+    },
+    {
+      "produce": "cucumber",
+      "available": [5, 6, 7, 8, 9, 10, 11],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium",
+      "note": "May, Oct and Nov limited."
+    },
+    {
+      "produce": "fig",
+      "available": [7, 8],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "garlic",
+      "available": [5, 6, 7, 8, 9, 10],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "grape",
+      "available": [7, 8, 9, 10],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium",
+      "note": "Muscadine grapes."
+    },
+    {
+      "produce": "green-bean",
+      "available": [5, 6, 7, 8, 9, 10, 11],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "kale",
+      "available": [1, 2, 3, 4, 5, 10, 11, 12],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium",
+      "note": "Jan–Feb limited."
+    },
+    {
+      "produce": "kohlrabi",
+      "available": [4, 5, 10, 11, 12],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "leek",
+      "available": [1, 2, 3, 4, 5, 10, 11, 12],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "lettuce",
+      "available": [1, 2, 3, 4, 5, 6, 9, 10, 11, 12],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium",
+      "note": "Jan–Feb limited."
+    },
+    {
+      "produce": "mandarin",
+      "available": [1, 2, 10, 11, 12],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium",
+      "note": "February limited."
+    },
+    {
+      "produce": "melon",
+      "available": [6, 7, 8],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium",
+      "note": "Cantaloupe."
+    },
+    {
+      "produce": "okra",
+      "available": [5, 6, 7, 8, 9, 10],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "onion",
+      "available": [4, 5, 6, 7, 8, 9, 10],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium",
+      "note": "Sweet (Vidalia) onions; October limited; source notes extended availability from storage."
+    },
+    {
+      "produce": "parsnip",
+      "available": [10, 11, 12],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "pea",
+      "available": [2, 3, 4, 5],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "peach",
+      "available": [5, 6, 7, 8],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "pear",
+      "available": [8, 9, 10, 11],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "pepper",
+      "available": [5, 6, 7, 8, 9, 10, 11],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium",
+      "note": "Sweet and hot peppers; May and Nov limited."
+    },
+    {
+      "produce": "plum",
+      "available": [5, 6, 7, 8, 9],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium",
+      "note": "May–Jun limited."
+    },
+    {
+      "produce": "potato",
+      "available": [5, 6, 7, 8, 9],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium",
+      "note": "September limited."
+    },
+    {
+      "produce": "pumpkin",
+      "available": [9, 10, 11],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "radish",
+      "available": [3, 4, 5, 6],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "raspberry",
+      "available": [6, 7],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "rocket",
+      "available": [4, 5, 6],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "spinach",
+      "available": [1, 2, 3, 4, 5, 11, 12],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "spring-onion",
+      "available": [1, 2, 3, 4, 5],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "strawberry",
+      "available": [3, 4, 5],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "sweet-potato",
+      "available": [1, 2, 8, 9, 10, 11, 12],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "sweetcorn",
+      "available": [6, 7, 8],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "tomato",
+      "available": [5, 6, 7, 8, 9, 10, 11],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium",
+      "note": "May and Nov limited."
+    },
+    {
+      "produce": "turnip",
+      "available": [1, 2, 3, 4, 10, 11, 12],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium",
+      "note": "Jan–Feb limited."
+    },
+    {
+      "produce": "watercress",
+      "available": [4, 5, 6],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "watermelon",
+      "available": [6, 7, 8, 9],
+      "sources": ["us-ga-uga-seasonality"],
+      "confidence": "medium"
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "region": "AU-VIC",
+  "entries": [
+    {
+      "produce": "apple",
+      "available": [3, 4, 5, 6, 7, 8],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "apricot",
+      "available": [1, 2, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "artichoke",
+      "available": [9, 10, 11],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "asparagus",
+      "available": [9, 10, 11],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "aubergine",
+      "available": [1, 2, 3, 4, 5, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "beetroot",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "broad-bean",
+      "available": [6, 7, 8, 9, 10, 11],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "broccoli",
+      "available": [6, 7, 8, 9, 10, 11],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "brussels-sprout",
+      "available": [3, 4, 5, 6, 7, 8],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "cabbage",
+      "available": [3, 4, 5, 6, 7, 8],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "carrot",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "cauliflower",
+      "available": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "celery",
+      "available": [3, 4, 5, 6, 7, 8],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "chard",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "cherry",
+      "available": [1, 2, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "chilli",
+      "available": [1, 2, 3, 4, 5, 9, 10, 11, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "courgette",
+      "available": [1, 2, 3, 4, 5, 9, 10, 11, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "cucumber",
+      "available": [1, 2, 3, 4, 5, 9, 10, 11, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "fig",
+      "available": [1, 2, 3, 4, 5, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "grape",
+      "available": [1, 2, 3, 4, 5, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "grapefruit",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "green-bean",
+      "available": [1, 2, 3, 4, 5, 9, 10, 11, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "jerusalem-artichoke",
+      "available": [6, 7, 8],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "kiwi",
+      "available": [6, 7, 8],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "leek",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "lemon",
+      "available": [6, 7, 8, 9, 10, 11],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "lettuce",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "lime",
+      "available": [6, 7, 8, 9, 10, 11],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "mandarin",
+      "available": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source. Imperial mandarins."
+    },
+    {
+      "produce": "melon",
+      "available": [1, 2, 3, 4, 5, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source. Listed as melons."
+    },
+    {
+      "produce": "onion",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "orange",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source. Valencia in summer and autumn, navel in winter."
+    },
+    {
+      "produce": "parsnip",
+      "available": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "pea",
+      "available": [1, 2, 3, 4, 5, 9, 10, 11, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "peach",
+      "available": [1, 2, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "pear",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "pepper",
+      "available": [1, 2, 3, 4, 5, 9, 10, 11, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "plum",
+      "available": [1, 2, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "potato",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "rhubarb",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "spinach",
+      "available": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "spring-onion",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "strawberry",
+      "available": [1, 2, 3, 4, 5, 9, 10, 11, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "sweet-potato",
+      "available": [3, 4, 5],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "sweetcorn",
+      "available": [1, 2, 3, 4, 5, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "tomato",
+      "available": [1, 2, 3, 4, 5, 12],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    },
+    {
+      "produce": "turnip",
+      "available": [6, 7, 8],
+      "sources": ["au-vic-envvic-seasonal"],
+      "confidence": "low",
+      "note": "Season-level list for Victoria (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov); single 2009 source."
+    }
+  ]
+}

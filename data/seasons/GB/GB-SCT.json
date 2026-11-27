@@ -1,0 +1,348 @@
+{
+  "region": "GB-SCT",
+  "entries": [
+    {
+      "produce": "apple",
+      "peak": [10, 11, 12],
+      "available": [1, 2, 8, 9],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "asparagus",
+      "peak": [5, 6],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "beetroot",
+      "peak": [1, 7, 8, 9, 10, 11, 12],
+      "available": [2, 3, 6],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "blackberry",
+      "peak": [8, 9],
+      "available": [7],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Cultivated brambles. Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "blackcurrant",
+      "peak": [6, 7, 8],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "blueberry",
+      "peak": [7, 8, 9],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "broad-bean",
+      "peak": [6, 7, 8],
+      "available": [9, 10],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "broccoli",
+      "peak": [8, 9, 10],
+      "available": [11],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "brussels-sprout",
+      "peak": [1, 2, 11, 12],
+      "available": [3, 10],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "cabbage",
+      "peak": [1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "carrot",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "cauliflower",
+      "peak": [5, 6, 7, 8, 9, 10],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "celeriac",
+      "peak": [1, 2, 3, 9, 10, 11, 12],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "celery",
+      "peak": [6, 7, 8, 9, 10],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "chard",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "cherry",
+      "peak": [6],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "chilli",
+      "peak": [5, 6, 7, 8, 9, 10],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "courgette",
+      "peak": [6, 7, 8, 9, 10],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "cucumber",
+      "peak": [6, 7, 8, 9, 10],
+      "available": [5],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "gooseberry",
+      "peak": [6, 7, 8],
+      "available": [9],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "jerusalem-artichoke",
+      "peak": [1, 2, 3, 10, 11, 12],
+      "available": [9],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "kale",
+      "peak": [1, 2, 10, 11, 12],
+      "available": [3, 4, 9],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "kohlrabi",
+      "peak": [5, 6, 7, 10, 11, 12],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Green kohlrabi May to July, purple October to December. Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "leek",
+      "peak": [1, 2, 3, 10, 11, 12],
+      "available": [4, 9],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "lettuce",
+      "peak": [5, 6, 7, 8, 9, 10],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "onion",
+      "peak": [1, 2, 3, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "parsnip",
+      "peak": [1, 2, 11, 12],
+      "available": [3, 9, 10],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "pea",
+      "peak": [6, 7, 8],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "pear",
+      "peak": [8, 9, 10, 11, 12],
+      "available": [1, 2],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "plum",
+      "peak": [7, 8, 9],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "potato",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Ware potatoes all year; new potatoes May to August. Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "pumpkin",
+      "peak": [9, 10, 11],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "radish",
+      "peak": [1, 2, 5, 6, 7, 8, 9, 11, 12],
+      "available": [3, 10],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Summer radish May to October, winter radish November to March. Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "raspberry",
+      "peak": [6, 7, 8, 9],
+      "available": [10],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "redcurrant",
+      "peak": [6, 7, 8],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "rhubarb",
+      "peak": [5, 6, 7],
+      "available": [4],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "rocket",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "runner-bean",
+      "peak": [7, 8, 9],
+      "available": [6, 10],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "shallot",
+      "peak": [1, 2, 10, 11, 12],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "spinach",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "spring-onion",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Listed as scallions. Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "strawberry",
+      "peak": [6, 7, 8, 9],
+      "available": [5],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "swede",
+      "peak": [1, 2, 11, 12],
+      "available": [9, 10],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "tomato",
+      "peak": [6, 7, 8, 9],
+      "available": [5],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "turnip",
+      "peak": [1, 10, 11, 12],
+      "available": [2, 8, 9],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    },
+    {
+      "produce": "wild-garlic",
+      "peak": [3, 4, 5],
+      "sources": ["gb-sfd-seasonality"],
+      "confidence": "low",
+      "note": "Scottish growing seasons: darker shading taken as main season, lighter as coming in or going out."
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "us-snaped-seasonal-produce-guide",
+    "title": "Seasonal Produce Guide",
+    "publisher": "USDA Food and Nutrition Service, SNAP-Ed Connection",
+    "url": "https://web.archive.org/web/20260101004244/https://snaped.fns.usda.gov/resources/nutrition-education-materials/seasonal-produce-guide",
+    "kind": "government",
+    "licence": "public-domain-us-gov",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "us-ca-cdfa-seasonal-chart",
+    "title": "California Fruits and Vegetables Seasonal Chart (source: CA Department of Food & Agriculture)",
+    "publisher": "California Foundation for Agriculture in the Classroom",
+    "url": "https://cdn.agclassroom.org/ca/resources/gardens/seasonalchart.pdf",
+    "kind": "nonprofit",
+    "licence": "unknown",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "us-fl-fdacs-availability",
+    "title": "Florida Produce Seasonal Availability Calendar",
+    "publisher": "Florida Department of Agriculture and Consumer Services (Fresh From Florida)",
+    "url": "https://ccmedia.fdacs.gov/content/download/16790/file/florida-produce-seasonal-availability-chart.pdf",
+    "kind": "government",
+    "licence": "unknown",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "us-tx-tda-availability",
+    "title": "Texas Produce Availability Chart (GO TEXAN, 2015)",
+    "publisher": "Texas Department of Agriculture",
+    "url": "https://leon.agrilife.org/files/2019/03/produce-availability-brochure-2015-nocropmarks.pdf",
+    "kind": "government",
+    "licence": "unknown",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "us-va-vdacs-availability",
+    "title": "Virginia Fruit and Vegetable Availability Calendar",
+    "publisher": "Virginia Department of Agriculture and Consumer Services (Virginia Grown)",
+    "url": "https://www.vdacs.virginia.gov/pdf/producechart.pdf",
+    "kind": "government",
+    "licence": "unknown",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "us-ia-idals-harvest-calendar",
+    "title": "Iowa Fruit and Vegetable Harvest Calendar",
+    "publisher": "Iowa Department of Agriculture and Land Stewardship",
+    "url": "https://iowaagriculture.gov/sites/default/files/ag-diversification/Specialty%20Crops/FINAL3281IowaFVmagnet.pdf",
+    "kind": "government",
+    "licence": "unknown",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "us-co-cda-produce-calendar",
+    "title": "Colorado Produce Calendar (Colorado Proud)",
+    "publisher": "Colorado Department of Agriculture",
+    "url": "https://ag.colorado.gov/sites/ag/files/documents/ColoradoProduceCalendar_0.pdf",
+    "kind": "government",
+    "licence": "unknown",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "us-ny-agm-harvest-chart",
+    "title": "From A(pples) to Z(ucchini), your guide to New York's produce",
+    "publisher": "New York State Department of Agriculture and Markets",
+    "url": "https://web.archive.org/web/20250620013218/https://www.ny.gov/sites/default/files/atoms/files/HarvestChart.pdf",
+    "kind": "government",
+    "licence": "unknown",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "us-wa-wsda-vegetables",
+    "title": "Washington Grown Produce Seasonality Chart: Vegetables and Legumes (AGR PUB 200-338)",
+    "publisher": "Washington State Department of Agriculture",
+    "url": "https://cms.agr.wa.gov/WSDAKentico/Documents/Pubs/338-SeasonalityChart-VegLegumes.pdf",
+    "kind": "government",
+    "licence": "unknown",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "us-wa-wsda-fruits",
+    "title": "Washington Grown Produce Seasonality Chart: Fruits and Herbs (AGR PUB 200-339)",
+    "publisher": "Washington State Department of Agriculture",
+    "url": "https://cms.agr.wa.gov/WSDAKentico/Documents/Pubs/339-SeasonalityChart-FruitsHerbs.pdf",
+    "kind": "government",
+    "licence": "unknown",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "us-mi-msue-availability-lp",
+    "title": "Michigan Lower Peninsula Seasonal Produce Availability Guide (2025)",
+    "publisher": "Michigan State University Extension",
+    "url": "https://web.archive.org/web/2025/https://www.canr.msu.edu/mi_fresh/uploads/files/PRODUCE_AVAILABILITY_GUIDE_ENGLISH-2025-LP.pdf",
+    "kind": "extension",
+    "licence": "unknown",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "us-nc-ncda-availability",
+    "title": "What's in Season? North Carolina Fruit and Vegetable Availability",
+    "publisher": "North Carolina Department of Agriculture and Consumer Services",
+    "url": "https://ncagr.gov/marketing/produce-availability-chart/open",
+    "kind": "government",
+    "licence": "unknown",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "us-ga-uga-seasonality",
+    "title": "Georgia Produce Seasonality Chart",
+    "publisher": "University of Georgia Extension (Agricultural and Applied Economics)",
+    "url": "https://site.extension.uga.edu/aaecext/?p=500",
+    "kind": "extension",
+    "licence": "unknown",
+    "accessed": "2026-11-27"
+  }
+]

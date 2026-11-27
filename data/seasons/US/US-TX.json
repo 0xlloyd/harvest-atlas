@@ -1,0 +1,200 @@
+{
+  "region": "US-TX",
+  "entries": [
+    {
+      "produce": "apple",
+      "available": [6, 7, 8, 9, 10, 11],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "beetroot",
+      "available": [1, 2, 3, 4, 10, 11, 12],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "blackberry",
+      "available": [4, 5, 6],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "blueberry",
+      "available": [5, 6, 7],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "broccoli",
+      "available": [1, 2, 3, 12],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "cabbage",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium",
+      "note": "Green cabbage; source lists year-round."
+    },
+    {
+      "produce": "carrot",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium",
+      "note": "Source lists year-round."
+    },
+    {
+      "produce": "cauliflower",
+      "available": [1, 2, 3, 4, 11, 12],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "celery",
+      "available": [1, 2, 3, 4, 12],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "chilli",
+      "available": [5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium",
+      "note": "Chart row is \"Hot Peppers\"."
+    },
+    {
+      "produce": "courgette",
+      "available": [4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "cucumber",
+      "available": [4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "grapefruit",
+      "available": [1, 2, 3, 4, 5, 10, 11, 12],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "kale",
+      "available": [1, 2, 3, 4, 11, 12],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "kohlrabi",
+      "available": [1, 2, 3, 4, 11, 12],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "lettuce",
+      "available": [4, 5, 6, 7, 8, 9, 10],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "melon",
+      "available": [5, 6, 7, 10, 11],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium",
+      "note": "Cantaloupes."
+    },
+    {
+      "produce": "onion",
+      "available": [3, 4, 5, 6, 7, 8],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium",
+      "note": "Sweet onions are listed separately as Mar–May."
+    },
+    {
+      "produce": "orange",
+      "available": [1, 2, 3, 4, 9, 10, 11, 12],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "peach",
+      "available": [4, 5, 6, 7, 8],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "pear",
+      "available": [6, 7, 8, 9],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "pepper",
+      "available": [5, 6, 8, 9, 10, 11, 12],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium",
+      "note": "Chart row is \"Sweet Peppers\"."
+    },
+    {
+      "produce": "potato",
+      "available": [4, 5, 6, 7, 8, 9],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "pumpkin",
+      "available": [9, 10, 11],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "red-cabbage",
+      "available": [1, 2, 3, 4, 5],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "spinach",
+      "available": [1, 2, 3, 4, 11, 12],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "spring-onion",
+      "available": [5, 6, 7, 8, 9, 10],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium",
+      "note": "Chart row is \"Green Onions\"."
+    },
+    {
+      "produce": "sweet-potato",
+      "available": [1, 2, 3, 4, 5, 8, 9, 10, 11, 12],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "tomato",
+      "available": [5, 6, 7, 8, 9, 10, 11],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium",
+      "note": "Field tomatoes. The chart also lists greenhouse tomatoes year-round."
+    },
+    {
+      "produce": "turnip",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium",
+      "note": "Source lists year-round."
+    },
+    {
+      "produce": "watermelon",
+      "available": [5, 6, 7, 8, 9, 10, 11],
+      "sources": ["us-tx-tda-availability"],
+      "confidence": "medium"
+    }
+  ]
+}

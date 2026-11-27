@@ -1,0 +1,122 @@
+{
+  "region": "US-CA",
+  "entries": [
+    {
+      "produce": "apple",
+      "peak": [7, 8, 9, 10],
+      "available": [11, 12],
+      "storage": [1, 2, 3],
+      "sources": ["us-ca-cdfa-seasonal-chart"],
+      "confidence": "medium",
+      "note": "Chart marks Jan–Mar as available after the Jul–Dec harvest; treated here as stored crop."
+    },
+    {
+      "produce": "asparagus",
+      "peak": [3, 4, 5, 6, 7],
+      "available": [8, 9],
+      "sources": ["us-ca-cdfa-seasonal-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "avocado",
+      "peak": [2, 3, 4, 5, 6, 7, 8, 9],
+      "available": [1, 10, 11, 12],
+      "sources": ["us-ca-cdfa-seasonal-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "cherry",
+      "peak": [5, 6],
+      "sources": ["us-ca-cdfa-seasonal-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "garlic",
+      "peak": [4, 5, 6, 7, 9],
+      "available": [1, 2, 3, 8, 10, 11, 12],
+      "sources": ["us-ca-cdfa-seasonal-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "grape",
+      "peak": [5, 6, 7, 8, 9, 10, 11, 12],
+      "available": [1, 2, 3, 4],
+      "sources": ["us-ca-cdfa-seasonal-chart"],
+      "confidence": "medium",
+      "note": "Table grapes."
+    },
+    {
+      "produce": "kiwi",
+      "peak": [1, 11, 12],
+      "available": [2, 3, 4, 10],
+      "sources": ["us-ca-cdfa-seasonal-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "mandarin",
+      "peak": [1, 12],
+      "available": [2, 3, 11],
+      "sources": ["us-ca-cdfa-seasonal-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "melon",
+      "peak": [7, 8, 9],
+      "available": [6, 10, 11],
+      "sources": ["us-ca-cdfa-seasonal-chart"],
+      "confidence": "medium",
+      "note": "Chart row is \"Melons\" (all types)."
+    },
+    {
+      "produce": "nectarine",
+      "peak": [7],
+      "available": [5, 6, 8, 9, 10],
+      "sources": ["us-ca-cdfa-seasonal-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "orange",
+      "peak": [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12],
+      "available": [10],
+      "sources": ["us-ca-cdfa-seasonal-chart"],
+      "confidence": "medium",
+      "note": "Combines navel (peak Nov–Apr) and Valencia (peak May–Sep) rows."
+    },
+    {
+      "produce": "peach",
+      "peak": [6, 7, 8, 9],
+      "available": [4, 5],
+      "sources": ["us-ca-cdfa-seasonal-chart"],
+      "confidence": "medium",
+      "note": "Fresh peaches row; the cling (canning) peach row is not used."
+    },
+    {
+      "produce": "pear",
+      "peak": [7, 8, 9, 10],
+      "available": [11],
+      "sources": ["us-ca-cdfa-seasonal-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "plum",
+      "peak": [6, 7, 8, 9],
+      "available": [3, 4, 5, 10],
+      "sources": ["us-ca-cdfa-seasonal-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "strawberry",
+      "peak": [3, 4, 5, 6, 7, 8, 9],
+      "available": [1, 2, 10, 11, 12],
+      "sources": ["us-ca-cdfa-seasonal-chart"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "tomato",
+      "peak": [6, 7, 8, 9, 10],
+      "available": [5, 11, 12],
+      "sources": ["us-ca-cdfa-seasonal-chart"],
+      "confidence": "medium"
+    }
+  ]
+}

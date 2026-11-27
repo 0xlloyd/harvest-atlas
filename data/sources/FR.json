@@ -1,0 +1,29 @@
+[
+  {
+    "id": "fr-ademe-impactco2",
+    "title": "Fruits et légumes de saison (Impact CO2 tool and /api/v1/fruitsetlegumes; month data file in the Impact CO2 repository)",
+    "publisher": "ADEME (Agence de la transition écologique)",
+    "url": "https://github.com/incubateur-ademe/impactco2/blob/main/src/data/categories/fruitsetlegumes.ts",
+    "kind": "government",
+    "licence": "MIT",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "fr-greenpeace-calendrier",
+    "title": "Calendrier des fruits et légumes de saison en France métropolitaine",
+    "publisher": "Greenpeace France",
+    "url": "https://www.greenpeace.fr/guetteur/calendrier/",
+    "kind": "nonprofit",
+    "licence": "all-rights-reserved",
+    "accessed": "2026-11-27"
+  },
+  {
+    "id": "fr-re-pilon-pile-calendrier",
+    "title": "Calendrier des fruits de saison / des légumes de saison à La Réunion (sources: Chambre d'Agriculture de La Réunion, AROP FL)",
+    "publisher": "Promotion Santé La Réunion (Pilon Pilé) with DAAF La Réunion, ARS and Préfet de La Réunion",
+    "url": "https://daaf.reunion.agriculture.gouv.fr/IMG/pdf/pilon-pile-calendrier-fl-de-saison-pei-v2024.pdf",
+    "kind": "government",
+    "licence": "unknown",
+    "accessed": "2026-11-27"
+  }
+]

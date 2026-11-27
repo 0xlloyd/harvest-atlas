@@ -1,0 +1,312 @@
+{
+  "region": "US",
+  "entries": [
+    {
+      "produce": "apple",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low",
+      "note": "National average from the USDA SNAP-Ed Seasonal Produce Guide, which lists items by season (spring, summer, fall, winter); seasons mapped to Mar–May, Jun–Aug, Sep–Nov, Dec–Feb. It does not separate local harvest from storage or imports and varies widely by state, so every entry is low confidence; prefer the state files."
+    },
+    {
+      "produce": "apricot",
+      "available": [3, 4, 5, 6, 7, 8],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "asparagus",
+      "available": [3, 4, 5],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "aubergine",
+      "available": [6, 7, 8],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "avocado",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "beetroot",
+      "available": [1, 2, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "blackberry",
+      "available": [3, 4, 5, 6, 7, 8],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "blueberry",
+      "available": [6, 7, 8],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "broccoli",
+      "available": [3, 4, 5, 9, 10, 11],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "brussels-sprout",
+      "available": [1, 2, 9, 10, 11, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "cabbage",
+      "available": [1, 2, 3, 4, 5, 9, 10, 11, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "carrot",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "cauliflower",
+      "available": [9, 10, 11],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "celery",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "chard",
+      "available": [1, 2, 3, 4, 5, 9, 10, 11, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "cherry",
+      "available": [6, 7, 8],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "courgette",
+      "available": [6, 7, 8],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "cucumber",
+      "available": [6, 7, 8],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "garlic",
+      "available": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "grape",
+      "available": [1, 2, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "grapefruit",
+      "available": [1, 2, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "green-bean",
+      "available": [6, 7, 8, 9, 10, 11],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "kale",
+      "available": [1, 2, 3, 4, 5, 9, 10, 11, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "kiwi",
+      "available": [1, 2, 3, 4, 5, 9, 10, 11, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "leek",
+      "available": [1, 2, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "lemon",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "lettuce",
+      "available": [3, 4, 5, 9, 10, 11],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "melon",
+      "available": [6, 7, 8],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "okra",
+      "available": [6, 7, 8, 9, 10, 11],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "onion",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "orange",
+      "available": [1, 2, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "parsnip",
+      "available": [1, 2, 9, 10, 11, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "pea",
+      "available": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "peach",
+      "available": [6, 7, 8],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "pear",
+      "available": [1, 2, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "pepper",
+      "available": [6, 7, 8, 9, 10, 11],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "plum",
+      "available": [6, 7, 8],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "pomegranate",
+      "available": [1, 2, 9, 10, 11, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "potato",
+      "available": [1, 2, 9, 10, 11, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "pumpkin",
+      "available": [1, 2, 9, 10, 11, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "radish",
+      "available": [3, 4, 5, 9, 10, 11],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "raspberry",
+      "available": [6, 7, 8, 9, 10, 11],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "rhubarb",
+      "available": [3, 4, 5],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "spinach",
+      "available": [3, 4, 5, 9, 10, 11],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "strawberry",
+      "available": [3, 4, 5, 6, 7, 8],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "swede",
+      "available": [1, 2, 9, 10, 11, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "sweet-potato",
+      "available": [1, 2, 9, 10, 11, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "sweetcorn",
+      "available": [6, 7, 8],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "tomato",
+      "available": [6, 7, 8],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "turnip",
+      "available": [1, 2, 3, 4, 5, 9, 10, 11, 12],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    },
+    {
+      "produce": "watermelon",
+      "available": [6, 7, 8],
+      "sources": ["us-snaped-seasonal-produce-guide"],
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "region": "GB",
+  "entries": [
+    {
+      "produce": "apple",
+      "peak": [8, 9, 10, 11],
+      "storage": [1, 2, 3, 4, 5, 6, 7, 12],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high",
+      "note": "Dessert apples harvested August to November; stored dessert apples sold to May and stored Bramleys to July (NCGM)."
+    },
+    {
+      "produce": "apricot",
+      "available": [7, 8, 9, 10],
+      "sources": ["gb-nfu-seasonality"],
+      "confidence": "low"
+    },
+    {
+      "produce": "artichoke",
+      "peak": [6, 7, 8, 9, 10],
+      "available": [5, 11],
+      "sources": ["gb-ncgm-calendar"],
+      "confidence": "medium",
+      "note": "Globe artichoke. The Vegetarian Society lists \"artichoke\" for March to May instead."
+    },
+    {
+      "produce": "asparagus",
+      "peak": [5, 6],
+      "available": [4],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "aubergine",
+      "peak": [6, 7, 8, 9],
+      "available": [5],
+      "sources": ["gb-ncgm-calendar", "gb-vegsoc-seasonal", "gb-nfu-seasonality"],
+      "confidence": "high",
+      "note": "UK aubergines are glasshouse-grown (NFU), which is why the NFU chart shows them all year."
+    },
+    {
+      "produce": "beetroot",
+      "peak": [6, 7, 8, 9, 10],
+      "available": [5],
+      "storage": [1, 2, 3, 4, 11, 12],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "blackberry",
+      "peak": [9, 10],
+      "available": [7, 8, 11],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "blackcurrant",
+      "peak": [8],
+      "available": [6, 7],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high",
+      "note": "NFU and the Vegetarian Society give June to August; NCGM July to August."
+    },
+    {
+      "produce": "blueberry",
+      "peak": [7, 8],
+      "available": [9],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "broad-bean",
+      "peak": [7, 8],
+      "available": [6, 9],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "broccoli",
+      "peak": [6, 7, 8, 9, 10],
+      "available": [5, 11],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high",
+      "note": "Calabrese. Purple sprouting broccoli is given as January to May by NFU and February to March by the Vegetarian Society."
+    },
+    {
+      "produce": "brussels-sprout",
+      "peak": [1, 2, 10, 11, 12],
+      "available": [9],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high",
+      "note": "The NFU chart extends the season from August to April."
+    },
+    {
+      "produce": "butternut-squash",
+      "peak": [9, 10],
+      "available": [8],
+      "storage": [1, 2, 3, 11, 12],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high",
+      "note": "NCGM row \"Squash\"; NFU and the Vegetarian Society give butternut squash September to November."
+    },
+    {
+      "produce": "cabbage",
+      "peak": [1, 2, 3, 4, 8, 9, 10, 11, 12],
+      "available": [5, 6, 7],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high",
+      "note": "Combines NCGM savoy, spring green and winter white rows; winter white is also sold from store January to June."
+    },
+    {
+      "produce": "carrot",
+      "peak": [1, 2, 6, 7, 8, 9, 10, 11, 12],
+      "available": [5],
+      "storage": [3, 4],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "cauliflower",
+      "peak": [1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high",
+      "note": "NCGM shows a gap in June; the Vegetarian Society lists June to November only."
+    },
+    {
+      "produce": "celeriac",
+      "available": [1, 2, 3, 4, 5, 10, 11, 12],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "medium",
+      "note": "Sources disagree: NCGM marks it in season all year, NFU November to May, the Vegetarian Society October to February. Months kept are those at least two sources give."
+    },
+    {
+      "produce": "celery",
+      "peak": [7, 8, 9, 10],
+      "available": [6],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality"],
+      "confidence": "high",
+      "note": "The Vegetarian Society also lists celery September to January."
+    },
+    {
+      "produce": "chard",
+      "peak": [5, 6, 7, 8, 9, 10],
+      "sources": ["gb-ncgm-calendar", "gb-vegsoc-seasonal"],
+      "confidence": "medium",
+      "note": "The Vegetarian Society lists Swiss chard June to December."
+    },
+    {
+      "produce": "cherry",
+      "peak": [7, 8, 9],
+      "available": [4, 5, 6],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high",
+      "note": "NFU gives June to July and the Vegetarian Society June to August."
+    },
+    {
+      "produce": "chicory",
+      "peak": [6, 7, 8, 9, 10],
+      "available": [5, 11],
+      "sources": ["gb-ncgm-calendar"],
+      "confidence": "medium",
+      "note": "NCGM row \"Chicory/Endive/Radicchio\". The Vegetarian Society lists chicory all year."
+    },
+    {
+      "produce": "chilli",
+      "peak": [5, 6, 7, 8, 9, 10, 11],
+      "available": [12],
+      "sources": ["gb-ncgm-calendar", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "courgette",
+      "peak": [6, 7, 8, 9],
+      "available": [5, 10],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "cucumber",
+      "peak": [6, 7, 8, 9],
+      "available": [10],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high",
+      "note": "NCGM shows (partly polytunnel) cucumbers from March; NFU gives July to September. Kept the range most sources support."
+    },
+    {
+      "produce": "fennel",
+      "peak": [7, 8, 9, 10, 11],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "garlic",
+      "peak": [8, 9, 10, 11, 12],
+      "available": [1],
+      "sources": ["gb-ncgm-calendar", "gb-vegsoc-seasonal"],
+      "confidence": "medium",
+      "note": "The Vegetarian Society lists garlic July to September."
+    },
+    {
+      "produce": "gooseberry",
+      "peak": [7, 8],
+      "available": [6, 9],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "green-bean",
+      "peak": [7, 8, 9],
+      "available": [6, 10],
+      "sources": ["gb-ncgm-calendar", "gb-vegsoc-seasonal"],
+      "confidence": "medium",
+      "note": "NCGM row \"French/Runner/Flat\"; the Vegetarian Society lists French beans in July and August only."
+    },
+    {
+      "produce": "jerusalem-artichoke",
+      "peak": [1, 2, 11, 12],
+      "available": [10],
+      "sources": ["gb-ncgm-calendar", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "kale",
+      "peak": [1, 2, 3, 4, 9, 10, 11, 12],
+      "available": [8],
+      "sources": ["gb-ncgm-calendar", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "kohlrabi",
+      "peak": [7, 8, 9, 10, 11],
+      "available": [6],
+      "sources": ["gb-ncgm-calendar", "gb-vegsoc-seasonal"],
+      "confidence": "medium",
+      "note": "The Vegetarian Society lists July to September."
+    },
+    {
+      "produce": "leek",
+      "peak": [1, 2, 9, 10, 11, 12],
+      "available": [3, 8],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "lettuce",
+      "peak": [6, 7, 8, 9],
+      "available": [4, 5, 10],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high",
+      "note": "NCGM varies by type (round and little gem from April, iceberg all year)."
+    },
+    {
+      "produce": "onion",
+      "peak": [7, 8, 9],
+      "available": [6, 10],
+      "storage": [1, 2, 3, 4, 5, 11, 12],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "parsnip",
+      "peak": [1, 2, 8, 9, 10, 11, 12],
+      "available": [3, 4, 7],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "pea",
+      "peak": [6, 7, 8, 9],
+      "available": [5, 10],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "pear",
+      "peak": [9, 10, 11, 12],
+      "available": [8],
+      "storage": [1, 2, 3, 4, 5],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "pepper",
+      "peak": [5, 6, 7, 8, 9, 10],
+      "sources": ["gb-ncgm-calendar", "gb-vegsoc-seasonal", "gb-nfu-seasonality"],
+      "confidence": "high",
+      "note": "Glasshouse-grown (NFU), so the NFU chart shows peppers all year."
+    },
+    {
+      "produce": "plum",
+      "peak": [8, 9],
+      "available": [6, 7, 10, 11],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high",
+      "note": "NCGM and the Vegetarian Society give August to September; NFU June to November."
+    },
+    {
+      "produce": "potato",
+      "peak": [6, 7, 8, 9, 10, 11, 12],
+      "available": [5],
+      "storage": [1, 2, 3, 4],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high",
+      "note": "New potatoes May to September, maincrop from September with stored maincrop sold to May (NCGM)."
+    },
+    {
+      "produce": "pumpkin",
+      "peak": [9, 10, 11, 12],
+      "available": [8],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high",
+      "note": "NCGM also marks pumpkins January to March and July."
+    },
+    {
+      "produce": "quince",
+      "peak": [10, 11],
+      "available": [12],
+      "sources": ["gb-ncgm-calendar", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "radish",
+      "peak": [4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "raspberry",
+      "peak": [5, 6, 7, 8, 9, 10],
+      "available": [11],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "red-cabbage",
+      "peak": [8, 9, 10, 11],
+      "available": [7],
+      "storage": [1, 2, 3, 4, 5, 12],
+      "sources": ["gb-ncgm-calendar", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "redcurrant",
+      "peak": [8],
+      "available": [6, 7],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high",
+      "note": "NFU and the Vegetarian Society give June to August; NCGM July to August."
+    },
+    {
+      "produce": "rhubarb",
+      "peak": [1, 2, 3, 5, 6, 7, 11, 12],
+      "available": [4, 8, 9],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high",
+      "note": "Forced rhubarb November to March, outdoor May to July (NCGM); NFU and the Vegetarian Society extend outdoor rhubarb into September."
+    },
+    {
+      "produce": "rocket",
+      "peak": [4, 5, 6, 7, 8, 9, 10],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "runner-bean",
+      "peak": [7, 8, 9],
+      "available": [6, 10],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "shallot",
+      "peak": [1, 2, 3, 4, 5, 6, 9, 10, 11, 12],
+      "sources": ["gb-ncgm-calendar"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "spinach",
+      "peak": [5, 6, 7, 8, 9, 10],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "spring-onion",
+      "peak": [6, 7, 8, 9, 10],
+      "available": [4, 5, 11],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "strawberry",
+      "peak": [6, 7, 8],
+      "available": [5, 9],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high",
+      "note": "NFU extends the season to October."
+    },
+    {
+      "produce": "swede",
+      "peak": [9, 10, 11],
+      "available": [7, 8],
+      "storage": [1, 2, 3, 4, 5, 12],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "sweetcorn",
+      "peak": [8, 9, 10],
+      "available": [7, 11],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high"
+    },
+    {
+      "produce": "tomato",
+      "peak": [7, 8],
+      "available": [3, 4, 5, 6, 9, 10, 11],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high",
+      "note": "NCGM light shading includes polytunnel and glasshouse crops; NFU gives June to October."
+    },
+    {
+      "produce": "turnip",
+      "peak": [1, 2, 7, 8, 9, 10, 11, 12],
+      "available": [6],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality", "gb-vegsoc-seasonal"],
+      "confidence": "high",
+      "note": "NCGM also marks March and April."
+    },
+    {
+      "produce": "watercress",
+      "peak": [7, 8, 9],
+      "available": [5, 6, 10, 11],
+      "sources": ["gb-ncgm-calendar", "gb-nfu-seasonality"],
+      "confidence": "high",
+      "note": "The Vegetarian Society lists watercress March to December."
+    },
+    {
+      "produce": "wild-garlic",
+      "available": [3, 4, 5],
+      "sources": ["gb-gbc-wild-garlic", "gb-woodland-trust-wild-garlic"],
+      "confidence": "low",
+      "note": "Foraged. Leaves from early March, usually gone by June; best before the flowers (April to June)."
+    }
+  ]
+}

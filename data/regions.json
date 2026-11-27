@@ -1,0 +1,571 @@
+[
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "hemisphere": "north",
+    "locale": "en-GB"
+  },
+  {
+    "code": "GB-ENG",
+    "name": "England",
+    "parent": "GB",
+    "hemisphere": "north",
+    "locale": "en-GB"
+  },
+  {
+    "code": "GB-SCT",
+    "name": "Scotland",
+    "parent": "GB",
+    "hemisphere": "north",
+    "locale": "en-GB"
+  },
+  {
+    "code": "GB-WLS",
+    "name": "Wales",
+    "parent": "GB",
+    "hemisphere": "north",
+    "locale": "en-GB"
+  },
+  {
+    "code": "GB-NIR",
+    "name": "Northern Ireland",
+    "parent": "GB",
+    "hemisphere": "north",
+    "locale": "en-GB"
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "hemisphere": "north",
+    "locale": "en-GB"
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "hemisphere": "north",
+    "locale": "fr-FR"
+  },
+  {
+    "code": "FR-ARA",
+    "name": "Auvergne-Rhône-Alpes",
+    "parent": "FR",
+    "hemisphere": "north",
+    "locale": "fr-FR"
+  },
+  {
+    "code": "FR-BFC",
+    "name": "Bourgogne-Franche-Comté",
+    "parent": "FR",
+    "hemisphere": "north",
+    "locale": "fr-FR"
+  },
+  {
+    "code": "FR-BRE",
+    "name": "Bretagne",
+    "parent": "FR",
+    "hemisphere": "north",
+    "locale": "fr-FR"
+  },
+  {
+    "code": "FR-CVL",
+    "name": "Centre-Val de Loire",
+    "parent": "FR",
+    "hemisphere": "north",
+    "locale": "fr-FR"
+  },
+  {
+    "code": "FR-20R",
+    "name": "Corse",
+    "parent": "FR",
+    "hemisphere": "north",
+    "locale": "fr-FR"
+  },
+  {
+    "code": "FR-GES",
+    "name": "Grand Est",
+    "parent": "FR",
+    "hemisphere": "north",
+    "locale": "fr-FR"
+  },
+  {
+    "code": "FR-HDF",
+    "name": "Hauts-de-France",
+    "parent": "FR",
+    "hemisphere": "north",
+    "locale": "fr-FR"
+  },
+  {
+    "code": "FR-IDF",
+    "name": "Île-de-France",
+    "parent": "FR",
+    "hemisphere": "north",
+    "locale": "fr-FR"
+  },
+  {
+    "code": "FR-NOR",
+    "name": "Normandie",
+    "parent": "FR",
+    "hemisphere": "north",
+    "locale": "fr-FR"
+  },
+  {
+    "code": "FR-NAQ",
+    "name": "Nouvelle-Aquitaine",
+    "parent": "FR",
+    "hemisphere": "north",
+    "locale": "fr-FR"
+  },
+  {
+    "code": "FR-OCC",
+    "name": "Occitanie",
+    "parent": "FR",
+    "hemisphere": "north",
+    "locale": "fr-FR"
+  },
+  {
+    "code": "FR-PDL",
+    "name": "Pays de la Loire",
+    "parent": "FR",
+    "hemisphere": "north",
+    "locale": "fr-FR"
+  },
+  {
+    "code": "FR-PAC",
+    "name": "Provence-Alpes-Côte d'Azur",
+    "parent": "FR",
+    "hemisphere": "north",
+    "locale": "fr-FR"
+  },
+  {
+    "code": "FR-974",
+    "name": "La Réunion",
+    "parent": "FR",
+    "hemisphere": "south",
+    "locale": "fr-FR"
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-AL",
+    "name": "Alabama",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-AK",
+    "name": "Alaska",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-AZ",
+    "name": "Arizona",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-AR",
+    "name": "Arkansas",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-CA",
+    "name": "California",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-CO",
+    "name": "Colorado",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-CT",
+    "name": "Connecticut",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-DE",
+    "name": "Delaware",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-FL",
+    "name": "Florida",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-GA",
+    "name": "Georgia",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-HI",
+    "name": "Hawaii",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-ID",
+    "name": "Idaho",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-IL",
+    "name": "Illinois",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-IN",
+    "name": "Indiana",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-IA",
+    "name": "Iowa",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-KS",
+    "name": "Kansas",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-KY",
+    "name": "Kentucky",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-LA",
+    "name": "Louisiana",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-ME",
+    "name": "Maine",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-MD",
+    "name": "Maryland",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-MA",
+    "name": "Massachusetts",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-MI",
+    "name": "Michigan",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-MN",
+    "name": "Minnesota",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-MS",
+    "name": "Mississippi",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-MO",
+    "name": "Missouri",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-MT",
+    "name": "Montana",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-NE",
+    "name": "Nebraska",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-NV",
+    "name": "Nevada",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-NH",
+    "name": "New Hampshire",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-NJ",
+    "name": "New Jersey",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-NM",
+    "name": "New Mexico",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-NY",
+    "name": "New York",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-NC",
+    "name": "North Carolina",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-ND",
+    "name": "North Dakota",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-OH",
+    "name": "Ohio",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-OK",
+    "name": "Oklahoma",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-OR",
+    "name": "Oregon",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-PA",
+    "name": "Pennsylvania",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-RI",
+    "name": "Rhode Island",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-SC",
+    "name": "South Carolina",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-SD",
+    "name": "South Dakota",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-TN",
+    "name": "Tennessee",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-TX",
+    "name": "Texas",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-UT",
+    "name": "Utah",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-VT",
+    "name": "Vermont",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-VA",
+    "name": "Virginia",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-WA",
+    "name": "Washington",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-WV",
+    "name": "West Virginia",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-WI",
+    "name": "Wisconsin",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-WY",
+    "name": "Wyoming",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "US-DC",
+    "name": "District of Columbia",
+    "parent": "US",
+    "hemisphere": "north",
+    "locale": "en-US"
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "hemisphere": "south",
+    "locale": "en-AU"
+  },
+  {
+    "code": "AU-ACT",
+    "name": "Australian Capital Territory",
+    "parent": "AU",
+    "hemisphere": "south",
+    "locale": "en-AU"
+  },
+  {
+    "code": "AU-NSW",
+    "name": "New South Wales",
+    "parent": "AU",
+    "hemisphere": "south",
+    "locale": "en-AU"
+  },
+  {
+    "code": "AU-NT",
+    "name": "Northern Territory",
+    "parent": "AU",
+    "hemisphere": "south",
+    "locale": "en-AU"
+  },
+  {
+    "code": "AU-QLD",
+    "name": "Queensland",
+    "parent": "AU",
+    "hemisphere": "south",
+    "locale": "en-AU"
+  },
+  {
+    "code": "AU-SA",
+    "name": "South Australia",
+    "parent": "AU",
+    "hemisphere": "south",
+    "locale": "en-AU"
+  },
+  {
+    "code": "AU-TAS",
+    "name": "Tasmania",
+    "parent": "AU",
+    "hemisphere": "south",
+    "locale": "en-AU"
+  },
+  {
+    "code": "AU-VIC",
+    "name": "Victoria",
+    "parent": "AU",
+    "hemisphere": "south",
+    "locale": "en-AU"
+  },
+  {
+    "code": "AU-WA",
+    "name": "Western Australia",
+    "parent": "AU",
+    "hemisphere": "south",
+    "locale": "en-AU"
+  }
+]

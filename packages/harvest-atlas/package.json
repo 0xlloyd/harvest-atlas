@@ -1,0 +1,46 @@
+{
+  "name": "harvest-atlas",
+  "version": "0.1.0",
+  "description": "When fruit and vegetables are in season, by country and region, with a source for every month.",
+  "license": "MIT AND CC-BY-4.0",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./data.json": "./dist/generated/data.json"
+  },
+  "files": [
+    "dist",
+    "LICENSE",
+    "DATA-LICENSE.md"
+  ],
+  "sideEffects": false,
+  "keywords": [
+    "seasonal",
+    "produce",
+    "fruit",
+    "vegetables",
+    "harvest",
+    "calendar",
+    "open-data"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xlloyd/harvest-atlas.git",
+    "directory": "packages/harvest-atlas"
+  },
+  "scripts": {
+    "generate": "node scripts/bundle-data.mjs",
+    "build": "pnpm generate && tsc -p tsconfig.build.json",
+    "typecheck": "pnpm generate && tsc --noEmit",
+    "test": "pnpm generate && vitest run",
+    "prepack": "cp ../../LICENSE LICENSE && cp ../../DATA-LICENSE.md DATA-LICENSE.md && pnpm build"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "typescript": "~6.0.3",
+    "vitest": "^5.0.5"
+  }
+}

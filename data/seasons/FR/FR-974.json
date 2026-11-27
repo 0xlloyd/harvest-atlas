@@ -1,0 +1,200 @@
+{
+  "region": "FR-974",
+  "entries": [
+    {
+      "produce": "aubergine",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'. Bringelle."
+    },
+    {
+      "produce": "avocado",
+      "peak": [3, 4, 7, 8, 9],
+      "available": [2, 5, 6, 10, 11],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'."
+    },
+    {
+      "produce": "beetroot",
+      "peak": [1, 8, 9, 10, 11, 12],
+      "available": [2, 3, 4, 5, 6, 7],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'."
+    },
+    {
+      "produce": "broccoli",
+      "peak": [7, 8, 9, 10, 11],
+      "available": [1, 2, 3, 4, 5, 6, 12],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'."
+    },
+    {
+      "produce": "cabbage",
+      "peak": [7, 8, 9, 10, 11],
+      "available": [1, 2, 3, 4, 5, 6, 12],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'. Chou vert."
+    },
+    {
+      "produce": "carrot",
+      "peak": [1, 2, 5, 6, 7, 8, 9, 10, 11, 12],
+      "available": [3, 4],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'."
+    },
+    {
+      "produce": "cauliflower",
+      "peak": [7, 8, 9, 10, 11],
+      "available": [1, 2, 3, 4, 5, 6, 12],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'."
+    },
+    {
+      "produce": "chilli",
+      "peak": [1, 2, 3, 12],
+      "available": [4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'."
+    },
+    {
+      "produce": "courgette",
+      "peak": [9, 10, 11, 12],
+      "available": [1, 2, 3, 4, 5, 6, 7, 8],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'."
+    },
+    {
+      "produce": "cucumber",
+      "peak": [5, 6, 7, 8],
+      "available": [1, 2, 3, 4, 9, 10, 11, 12],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'."
+    },
+    {
+      "produce": "green-bean",
+      "peak": [5, 6, 7, 8, 9, 10, 11, 12],
+      "available": [1, 2, 3, 4],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'."
+    },
+    {
+      "produce": "leek",
+      "peak": [9, 10, 11, 12],
+      "available": [1, 2, 3, 4, 5, 6, 7, 8],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'."
+    },
+    {
+      "produce": "lettuce",
+      "peak": [5, 6, 7, 8, 9, 10, 11, 12],
+      "available": [1, 2, 3, 4],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'."
+    },
+    {
+      "produce": "mandarin",
+      "available": [2, 3, 4, 5, 6, 7, 8, 9],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'."
+    },
+    {
+      "produce": "mango",
+      "peak": [1, 2],
+      "available": [3, 4, 11, 12],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'."
+    },
+    {
+      "produce": "melon",
+      "peak": [9, 10, 11, 12],
+      "available": [1, 2, 3, 4, 5, 6, 7, 8],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'."
+    },
+    {
+      "produce": "orange",
+      "peak": [5, 6, 7],
+      "available": [4, 8, 9, 10, 11, 12],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'."
+    },
+    {
+      "produce": "peach",
+      "available": [1, 2, 11, 12],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'."
+    },
+    {
+      "produce": "pepper",
+      "peak": [1, 2, 3, 12],
+      "available": [4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'."
+    },
+    {
+      "produce": "plum",
+      "available": [2, 3, 4],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'."
+    },
+    {
+      "produce": "pumpkin",
+      "peak": [5, 6, 7, 8],
+      "available": [1, 2, 3, 4, 9, 10, 11, 12],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'. Citrouille."
+    },
+    {
+      "produce": "strawberry",
+      "available": [5, 9, 10, 11, 12],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'."
+    },
+    {
+      "produce": "tomato",
+      "peak": [5, 6, 7, 8, 9, 10, 11, 12],
+      "available": [1, 2, 3, 4],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'."
+    },
+    {
+      "produce": "turnip",
+      "peak": [6, 7, 8, 9, 10, 11, 12],
+      "available": [1, 2, 3, 4, 5],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'."
+    },
+    {
+      "produce": "watermelon",
+      "peak": [10, 11, 12],
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+      "sources": ["fr-re-pilon-pile-calendrier"],
+      "confidence": "medium",
+      "note": "Pilon Pilé calendar for La Réunion (tropical, southern hemisphere); orange cells are 'pleine saison'."
+    }
+  ]
+}

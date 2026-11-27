@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/0xlloyd/harvest-atlas/main/schema/seasons.schema.json",
+  "title": "Seasons for one region",
+  "type": "object",
+  "required": ["region", "entries"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": { "type": "string" },
+    "region": { "$ref": "common.schema.json#/$defs/regionCode" },
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["produce", "sources", "confidence"],
+        "anyOf": [
+          { "required": ["peak"] },
+          { "required": ["available"] },
+          { "required": ["storage"] }
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "produce": { "$ref": "common.schema.json#/$defs/produceId" },
+          "peak": { "$ref": "common.schema.json#/$defs/months" },
+          "available": { "$ref": "common.schema.json#/$defs/months" },
+          "storage": { "$ref": "common.schema.json#/$defs/months" },
+          "sources": {
+            "type": "array",
+            "items": { "$ref": "common.schema.json#/$defs/sourceId" },
+            "minItems": 1,
+            "uniqueItems": true
+          },
+          "confidence": { "enum": ["high", "medium", "low"] },
+          "note": { "type": "string", "minLength": 1 }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "region": "AU",
+  "entries": [
+    {
+      "produce": "apple",
+      "available": [3, 4, 5],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists winter and spring; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "apricot",
+      "available": [1, 2, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "artichoke",
+      "available": [9, 10, 11],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "asparagus",
+      "available": [1, 2, 9, 10, 11, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists autumn; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "aubergine",
+      "available": [1, 2, 3, 4, 5, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists winter and spring; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "avocado",
+      "available": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists summer; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "beetroot",
+      "available": [1, 2, 3, 4, 5, 9, 10, 11, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists winter; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "blackberry",
+      "available": [1, 2, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "blueberry",
+      "available": [1, 2, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "broad-bean",
+      "available": [6, 7, 8, 9, 10, 11],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw"],
+      "confidence": "low",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Sources list it in different seasons; union shown."
+    },
+    {
+      "produce": "broccoli",
+      "available": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists summer; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "brussels-sprout",
+      "available": [6, 7, 8],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists spring; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "cabbage",
+      "available": [1, 2, 3, 4, 5, 9, 10, 11, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists winter; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "carrot",
+      "available": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists summer; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "cauliflower",
+      "available": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists summer; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "celeriac",
+      "available": [6, 7, 8],
+      "sources": ["au-swapit-hne"],
+      "confidence": "medium",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "celery",
+      "available": [1, 2, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists autumn and winter and spring; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "chard",
+      "available": [6, 7, 8, 9, 10, 11],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "cherry",
+      "available": [1, 2, 9, 10, 11, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "chilli",
+      "available": [1, 2, 3, 4, 5, 12],
+      "sources": ["au-nsw-epa-lfhw"],
+      "confidence": "medium",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "courgette",
+      "available": [1, 2, 3, 4, 5, 9, 10, 11, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists winter; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "cucumber",
+      "available": [1, 2, 3, 4, 5, 9, 10, 11, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists winter; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "fennel",
+      "available": [6, 7, 8, 9, 10, 11],
+      "sources": ["au-swapit-hne"],
+      "confidence": "medium",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "fig",
+      "available": [3, 4, 5],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists summer; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "garlic",
+      "available": [9, 10, 11],
+      "sources": ["au-cancercouncil-nsw"],
+      "confidence": "low",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "grape",
+      "available": [1, 2, 3, 4, 5, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists spring; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "grapefruit",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-cancercouncil-nsw"],
+      "confidence": "low",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "green-bean",
+      "available": [1, 2, 3, 4, 5, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists winter and spring; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "jerusalem-artichoke",
+      "available": [6, 7, 8],
+      "sources": ["au-cancercouncil-nsw"],
+      "confidence": "low",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "kale",
+      "available": [6, 7, 8],
+      "sources": ["au-swapit-hne"],
+      "confidence": "medium",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "kiwi",
+      "available": [3, 4, 5, 6, 7, 8],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "leek",
+      "available": [1, 2, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists autumn; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "lemon",
+      "available": [6, 7, 8, 9, 10, 11],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists autumn; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "lettuce",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "lime",
+      "available": [6, 7, 8],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists spring; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "mandarin",
+      "available": [6, 7, 8, 9, 10, 11],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists autumn; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "mango",
+      "available": [1, 2, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists spring; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "melon",
+      "available": [1, 2, 3, 4, 5, 9, 10, 11, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "nectarine",
+      "available": [1, 2, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists autumn; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "okra",
+      "available": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["au-swapit-hne", "au-nsw-epa-lfhw"],
+      "confidence": "low",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Sources list it in different seasons; union shown."
+    },
+    {
+      "produce": "onion",
+      "available": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists summer; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "orange",
+      "available": [1, 2, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists autumn; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "parsnip",
+      "available": [6, 7, 8],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists autumn and spring; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "passionfruit",
+      "available": [1, 2, 3, 4, 5, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists winter; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "pea",
+      "available": [9, 10, 11],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "peach",
+      "available": [1, 2, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists autumn; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "pear",
+      "available": [3, 4, 5],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists summer and winter; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "pepper",
+      "available": [1, 2, 3, 4, 5, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists winter; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "plum",
+      "available": [1, 2, 3, 4, 5, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "pomegranate",
+      "available": [3, 4, 5],
+      "sources": ["au-swapit-hne"],
+      "confidence": "medium",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "potato",
+      "available": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists summer; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "pumpkin",
+      "available": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists summer; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "radish",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "raspberry",
+      "available": [1, 2, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "rhubarb",
+      "available": [1, 2, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists autumn; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "spinach",
+      "available": [1, 2, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists autumn; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "strawberry",
+      "available": [1, 2, 9, 10, 11, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists autumn; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "swede",
+      "available": [6, 7, 8],
+      "sources": ["au-cancercouncil-nsw"],
+      "confidence": "low",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "sweet-potato",
+      "available": [3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "sweetcorn",
+      "available": [1, 2, 3, 4, 5, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    },
+    {
+      "produce": "tomato",
+      "available": [1, 2, 3, 4, 5, 9, 10, 11, 12],
+      "sources": ["au-swapit-hne", "au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "high",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Only one source also lists winter; kept the seasons at least two sources agree on."
+    },
+    {
+      "produce": "turnip",
+      "available": [3, 4, 5, 6, 7, 8],
+      "sources": ["au-cancercouncil-nsw", "au-nsw-epa-lfhw"],
+      "confidence": "low",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate. Sources list it in different seasons; union shown."
+    },
+    {
+      "produce": "watermelon",
+      "available": [1, 2, 9, 10, 11, 12],
+      "sources": ["au-swapit-hne"],
+      "confidence": "medium",
+      "note": "Seasonal guides give whole seasons (summer Dec-Feb, autumn Mar-May, winter Jun-Aug, spring Sep-Nov), so months are approximate."
+    }
+  ]
+}

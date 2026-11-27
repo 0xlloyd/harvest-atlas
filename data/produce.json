@@ -1,0 +1,1718 @@
+[
+  {
+    "id": "artichoke",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "globe artichoke",
+        "other": "globe artichokes"
+      },
+      "en-US": {
+        "one": "artichoke",
+        "other": "artichokes"
+      },
+      "en-AU": {
+        "one": "globe artichoke",
+        "other": "globe artichokes"
+      },
+      "fr-FR": {
+        "one": "artichaut",
+        "other": "artichauts"
+      }
+    }
+  },
+  {
+    "id": "asparagus",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "asparagus",
+        "other": "asparagus"
+      },
+      "en-US": {
+        "one": "asparagus",
+        "other": "asparagus"
+      },
+      "en-AU": {
+        "one": "asparagus",
+        "other": "asparagus"
+      },
+      "fr-FR": {
+        "one": "asperge",
+        "other": "asperges"
+      }
+    }
+  },
+  {
+    "id": "aubergine",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "aubergine",
+        "other": "aubergines"
+      },
+      "en-US": {
+        "one": "eggplant",
+        "other": "eggplants"
+      },
+      "en-AU": {
+        "one": "eggplant",
+        "other": "eggplants"
+      },
+      "fr-FR": {
+        "one": "aubergine",
+        "other": "aubergines"
+      }
+    }
+  },
+  {
+    "id": "beetroot",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "beetroot",
+        "other": "beetroot"
+      },
+      "en-US": {
+        "one": "beet",
+        "other": "beets"
+      },
+      "en-AU": {
+        "one": "beetroot",
+        "other": "beetroot"
+      },
+      "fr-FR": {
+        "one": "betterave",
+        "other": "betteraves"
+      }
+    }
+  },
+  {
+    "id": "broad-bean",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "broad bean",
+        "other": "broad beans"
+      },
+      "en-US": {
+        "one": "fava bean",
+        "other": "fava beans"
+      },
+      "en-AU": {
+        "one": "broad bean",
+        "other": "broad beans"
+      },
+      "fr-FR": {
+        "one": "fève",
+        "other": "fèves"
+      }
+    }
+  },
+  {
+    "id": "broccoli",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "broccoli",
+        "other": "broccoli"
+      },
+      "en-US": {
+        "one": "broccoli",
+        "other": "broccoli"
+      },
+      "en-AU": {
+        "one": "broccoli",
+        "other": "broccoli"
+      },
+      "fr-FR": {
+        "one": "brocoli",
+        "other": "brocolis"
+      }
+    }
+  },
+  {
+    "id": "brussels-sprout",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "Brussels sprout",
+        "other": "Brussels sprouts"
+      },
+      "en-US": {
+        "one": "Brussels sprout",
+        "other": "Brussels sprouts"
+      },
+      "en-AU": {
+        "one": "Brussels sprout",
+        "other": "Brussels sprouts"
+      },
+      "fr-FR": {
+        "one": "chou de Bruxelles",
+        "other": "choux de Bruxelles"
+      }
+    }
+  },
+  {
+    "id": "butternut-squash",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "butternut squash",
+        "other": "butternut squash"
+      },
+      "en-US": {
+        "one": "butternut squash",
+        "other": "butternut squash"
+      },
+      "en-AU": {
+        "one": "butternut pumpkin",
+        "other": "butternut pumpkins"
+      },
+      "fr-FR": {
+        "one": "courge butternut",
+        "other": "courges butternut"
+      }
+    }
+  },
+  {
+    "id": "cabbage",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "cabbage",
+        "other": "cabbages"
+      },
+      "en-US": {
+        "one": "cabbage",
+        "other": "cabbages"
+      },
+      "en-AU": {
+        "one": "cabbage",
+        "other": "cabbages"
+      },
+      "fr-FR": {
+        "one": "chou",
+        "other": "choux"
+      }
+    }
+  },
+  {
+    "id": "red-cabbage",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "red cabbage",
+        "other": "red cabbages"
+      },
+      "en-US": {
+        "one": "red cabbage",
+        "other": "red cabbages"
+      },
+      "en-AU": {
+        "one": "red cabbage",
+        "other": "red cabbages"
+      },
+      "fr-FR": {
+        "one": "chou rouge",
+        "other": "choux rouges"
+      }
+    }
+  },
+  {
+    "id": "carrot",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "carrot",
+        "other": "carrots"
+      },
+      "en-US": {
+        "one": "carrot",
+        "other": "carrots"
+      },
+      "en-AU": {
+        "one": "carrot",
+        "other": "carrots"
+      },
+      "fr-FR": {
+        "one": "carotte",
+        "other": "carottes"
+      }
+    }
+  },
+  {
+    "id": "cauliflower",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "cauliflower",
+        "other": "cauliflowers"
+      },
+      "en-US": {
+        "one": "cauliflower",
+        "other": "cauliflowers"
+      },
+      "en-AU": {
+        "one": "cauliflower",
+        "other": "cauliflowers"
+      },
+      "fr-FR": {
+        "one": "chou-fleur",
+        "other": "choux-fleurs"
+      }
+    }
+  },
+  {
+    "id": "celeriac",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "celeriac",
+        "other": "celeriac"
+      },
+      "en-US": {
+        "one": "celery root",
+        "other": "celery root"
+      },
+      "en-AU": {
+        "one": "celeriac",
+        "other": "celeriac"
+      },
+      "fr-FR": {
+        "one": "céleri-rave",
+        "other": "céleris-raves"
+      }
+    }
+  },
+  {
+    "id": "celery",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "celery",
+        "other": "celery"
+      },
+      "en-US": {
+        "one": "celery",
+        "other": "celery"
+      },
+      "en-AU": {
+        "one": "celery",
+        "other": "celery"
+      },
+      "fr-FR": {
+        "one": "céleri branche",
+        "other": "céleris branches"
+      }
+    }
+  },
+  {
+    "id": "chard",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "chard",
+        "other": "chard"
+      },
+      "en-US": {
+        "one": "Swiss chard",
+        "other": "Swiss chard"
+      },
+      "en-AU": {
+        "one": "silverbeet",
+        "other": "silverbeet"
+      },
+      "fr-FR": {
+        "one": "blette",
+        "other": "blettes"
+      }
+    }
+  },
+  {
+    "id": "chicory",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "chicory",
+        "other": "chicory"
+      },
+      "en-US": {
+        "one": "Belgian endive",
+        "other": "Belgian endives"
+      },
+      "en-AU": {
+        "one": "witlof",
+        "other": "witlof"
+      },
+      "fr-FR": {
+        "one": "endive",
+        "other": "endives"
+      }
+    }
+  },
+  {
+    "id": "chilli",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "chilli",
+        "other": "chillies"
+      },
+      "en-US": {
+        "one": "chile pepper",
+        "other": "chile peppers"
+      },
+      "en-AU": {
+        "one": "chilli",
+        "other": "chillies"
+      },
+      "fr-FR": {
+        "one": "piment",
+        "other": "piments"
+      }
+    }
+  },
+  {
+    "id": "courgette",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "courgette",
+        "other": "courgettes"
+      },
+      "en-US": {
+        "one": "zucchini",
+        "other": "zucchini"
+      },
+      "en-AU": {
+        "one": "zucchini",
+        "other": "zucchini"
+      },
+      "fr-FR": {
+        "one": "courgette",
+        "other": "courgettes"
+      }
+    }
+  },
+  {
+    "id": "cucumber",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "cucumber",
+        "other": "cucumbers"
+      },
+      "en-US": {
+        "one": "cucumber",
+        "other": "cucumbers"
+      },
+      "en-AU": {
+        "one": "cucumber",
+        "other": "cucumbers"
+      },
+      "fr-FR": {
+        "one": "concombre",
+        "other": "concombres"
+      }
+    }
+  },
+  {
+    "id": "fennel",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "fennel",
+        "other": "fennel"
+      },
+      "en-US": {
+        "one": "fennel",
+        "other": "fennel"
+      },
+      "en-AU": {
+        "one": "fennel",
+        "other": "fennel"
+      },
+      "fr-FR": {
+        "one": "fenouil",
+        "other": "fenouils"
+      }
+    }
+  },
+  {
+    "id": "garlic",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "garlic",
+        "other": "garlic"
+      },
+      "en-US": {
+        "one": "garlic",
+        "other": "garlic"
+      },
+      "en-AU": {
+        "one": "garlic",
+        "other": "garlic"
+      },
+      "fr-FR": {
+        "one": "ail",
+        "other": "ail"
+      }
+    }
+  },
+  {
+    "id": "green-bean",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "green bean",
+        "other": "green beans"
+      },
+      "en-US": {
+        "one": "green bean",
+        "other": "green beans"
+      },
+      "en-AU": {
+        "one": "green bean",
+        "other": "green beans"
+      },
+      "fr-FR": {
+        "one": "haricot vert",
+        "other": "haricots verts"
+      }
+    }
+  },
+  {
+    "id": "jerusalem-artichoke",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "Jerusalem artichoke",
+        "other": "Jerusalem artichokes"
+      },
+      "en-US": {
+        "one": "sunchoke",
+        "other": "sunchokes"
+      },
+      "en-AU": {
+        "one": "Jerusalem artichoke",
+        "other": "Jerusalem artichokes"
+      },
+      "fr-FR": {
+        "one": "topinambour",
+        "other": "topinambours"
+      }
+    }
+  },
+  {
+    "id": "kale",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "kale",
+        "other": "kale"
+      },
+      "en-US": {
+        "one": "kale",
+        "other": "kale"
+      },
+      "en-AU": {
+        "one": "kale",
+        "other": "kale"
+      },
+      "fr-FR": {
+        "one": "chou kale",
+        "other": "choux kale"
+      }
+    }
+  },
+  {
+    "id": "kohlrabi",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "kohlrabi",
+        "other": "kohlrabi"
+      },
+      "en-US": {
+        "one": "kohlrabi",
+        "other": "kohlrabi"
+      },
+      "en-AU": {
+        "one": "kohlrabi",
+        "other": "kohlrabi"
+      },
+      "fr-FR": {
+        "one": "chou-rave",
+        "other": "choux-raves"
+      }
+    }
+  },
+  {
+    "id": "leek",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "leek",
+        "other": "leeks"
+      },
+      "en-US": {
+        "one": "leek",
+        "other": "leeks"
+      },
+      "en-AU": {
+        "one": "leek",
+        "other": "leeks"
+      },
+      "fr-FR": {
+        "one": "poireau",
+        "other": "poireaux"
+      }
+    }
+  },
+  {
+    "id": "lettuce",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "lettuce",
+        "other": "lettuces"
+      },
+      "en-US": {
+        "one": "lettuce",
+        "other": "lettuces"
+      },
+      "en-AU": {
+        "one": "lettuce",
+        "other": "lettuces"
+      },
+      "fr-FR": {
+        "one": "laitue",
+        "other": "laitues"
+      }
+    }
+  },
+  {
+    "id": "okra",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "okra",
+        "other": "okra"
+      },
+      "en-US": {
+        "one": "okra",
+        "other": "okra"
+      },
+      "en-AU": {
+        "one": "okra",
+        "other": "okra"
+      },
+      "fr-FR": {
+        "one": "gombo",
+        "other": "gombos"
+      }
+    }
+  },
+  {
+    "id": "onion",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "onion",
+        "other": "onions"
+      },
+      "en-US": {
+        "one": "onion",
+        "other": "onions"
+      },
+      "en-AU": {
+        "one": "onion",
+        "other": "onions"
+      },
+      "fr-FR": {
+        "one": "oignon",
+        "other": "oignons"
+      }
+    }
+  },
+  {
+    "id": "parsnip",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "parsnip",
+        "other": "parsnips"
+      },
+      "en-US": {
+        "one": "parsnip",
+        "other": "parsnips"
+      },
+      "en-AU": {
+        "one": "parsnip",
+        "other": "parsnips"
+      },
+      "fr-FR": {
+        "one": "panais",
+        "other": "panais"
+      }
+    }
+  },
+  {
+    "id": "pea",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "pea",
+        "other": "peas"
+      },
+      "en-US": {
+        "one": "pea",
+        "other": "peas"
+      },
+      "en-AU": {
+        "one": "pea",
+        "other": "peas"
+      },
+      "fr-FR": {
+        "one": "petit pois",
+        "other": "petits pois"
+      }
+    }
+  },
+  {
+    "id": "pepper",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "pepper",
+        "other": "peppers"
+      },
+      "en-US": {
+        "one": "bell pepper",
+        "other": "bell peppers"
+      },
+      "en-AU": {
+        "one": "capsicum",
+        "other": "capsicums"
+      },
+      "fr-FR": {
+        "one": "poivron",
+        "other": "poivrons"
+      }
+    }
+  },
+  {
+    "id": "potato",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "potato",
+        "other": "potatoes"
+      },
+      "en-US": {
+        "one": "potato",
+        "other": "potatoes"
+      },
+      "en-AU": {
+        "one": "potato",
+        "other": "potatoes"
+      },
+      "fr-FR": {
+        "one": "pomme de terre",
+        "other": "pommes de terre"
+      }
+    }
+  },
+  {
+    "id": "pumpkin",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "pumpkin",
+        "other": "pumpkins"
+      },
+      "en-US": {
+        "one": "pumpkin",
+        "other": "pumpkins"
+      },
+      "en-AU": {
+        "one": "pumpkin",
+        "other": "pumpkins"
+      },
+      "fr-FR": {
+        "one": "potiron",
+        "other": "potirons"
+      }
+    }
+  },
+  {
+    "id": "radish",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "radish",
+        "other": "radishes"
+      },
+      "en-US": {
+        "one": "radish",
+        "other": "radishes"
+      },
+      "en-AU": {
+        "one": "radish",
+        "other": "radishes"
+      },
+      "fr-FR": {
+        "one": "radis",
+        "other": "radis"
+      }
+    }
+  },
+  {
+    "id": "rocket",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "rocket",
+        "other": "rocket"
+      },
+      "en-US": {
+        "one": "arugula",
+        "other": "arugula"
+      },
+      "en-AU": {
+        "one": "rocket",
+        "other": "rocket"
+      },
+      "fr-FR": {
+        "one": "roquette",
+        "other": "roquette"
+      }
+    }
+  },
+  {
+    "id": "runner-bean",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "runner bean",
+        "other": "runner beans"
+      },
+      "en-US": {
+        "one": "runner bean",
+        "other": "runner beans"
+      },
+      "en-AU": {
+        "one": "runner bean",
+        "other": "runner beans"
+      },
+      "fr-FR": {
+        "one": "haricot d'Espagne",
+        "other": "haricots d'Espagne"
+      }
+    }
+  },
+  {
+    "id": "shallot",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "shallot",
+        "other": "shallots"
+      },
+      "en-US": {
+        "one": "shallot",
+        "other": "shallots"
+      },
+      "en-AU": {
+        "one": "eschalot",
+        "other": "eschalots"
+      },
+      "fr-FR": {
+        "one": "échalote",
+        "other": "échalotes"
+      }
+    }
+  },
+  {
+    "id": "spinach",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "spinach",
+        "other": "spinach"
+      },
+      "en-US": {
+        "one": "spinach",
+        "other": "spinach"
+      },
+      "en-AU": {
+        "one": "spinach",
+        "other": "spinach"
+      },
+      "fr-FR": {
+        "one": "épinard",
+        "other": "épinards"
+      }
+    }
+  },
+  {
+    "id": "spring-onion",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "spring onion",
+        "other": "spring onions"
+      },
+      "en-US": {
+        "one": "scallion",
+        "other": "scallions"
+      },
+      "en-AU": {
+        "one": "spring onion",
+        "other": "spring onions"
+      },
+      "fr-FR": {
+        "one": "oignon nouveau",
+        "other": "oignons nouveaux"
+      }
+    }
+  },
+  {
+    "id": "swede",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "swede",
+        "other": "swedes"
+      },
+      "en-US": {
+        "one": "rutabaga",
+        "other": "rutabagas"
+      },
+      "en-AU": {
+        "one": "swede",
+        "other": "swedes"
+      },
+      "fr-FR": {
+        "one": "rutabaga",
+        "other": "rutabagas"
+      }
+    }
+  },
+  {
+    "id": "sweet-potato",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "sweet potato",
+        "other": "sweet potatoes"
+      },
+      "en-US": {
+        "one": "sweet potato",
+        "other": "sweet potatoes"
+      },
+      "en-AU": {
+        "one": "sweet potato",
+        "other": "sweet potatoes"
+      },
+      "fr-FR": {
+        "one": "patate douce",
+        "other": "patates douces"
+      }
+    }
+  },
+  {
+    "id": "sweetcorn",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "sweetcorn",
+        "other": "sweetcorn"
+      },
+      "en-US": {
+        "one": "corn",
+        "other": "corn"
+      },
+      "en-AU": {
+        "one": "sweet corn",
+        "other": "sweet corn"
+      },
+      "fr-FR": {
+        "one": "maïs doux",
+        "other": "maïs doux"
+      }
+    }
+  },
+  {
+    "id": "tomato",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "tomato",
+        "other": "tomatoes"
+      },
+      "en-US": {
+        "one": "tomato",
+        "other": "tomatoes"
+      },
+      "en-AU": {
+        "one": "tomato",
+        "other": "tomatoes"
+      },
+      "fr-FR": {
+        "one": "tomate",
+        "other": "tomates"
+      }
+    }
+  },
+  {
+    "id": "turnip",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "turnip",
+        "other": "turnips"
+      },
+      "en-US": {
+        "one": "turnip",
+        "other": "turnips"
+      },
+      "en-AU": {
+        "one": "turnip",
+        "other": "turnips"
+      },
+      "fr-FR": {
+        "one": "navet",
+        "other": "navets"
+      }
+    }
+  },
+  {
+    "id": "watercress",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "watercress",
+        "other": "watercress"
+      },
+      "en-US": {
+        "one": "watercress",
+        "other": "watercress"
+      },
+      "en-AU": {
+        "one": "watercress",
+        "other": "watercress"
+      },
+      "fr-FR": {
+        "one": "cresson",
+        "other": "cresson"
+      }
+    }
+  },
+  {
+    "id": "wild-garlic",
+    "category": "vegetable",
+    "names": {
+      "en-GB": {
+        "one": "wild garlic",
+        "other": "wild garlic"
+      },
+      "en-US": {
+        "one": "wild garlic",
+        "other": "wild garlic"
+      },
+      "en-AU": {
+        "one": "wild garlic",
+        "other": "wild garlic"
+      },
+      "fr-FR": {
+        "one": "ail des ours",
+        "other": "ail des ours"
+      }
+    }
+  },
+  {
+    "id": "apple",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "apple",
+        "other": "apples"
+      },
+      "en-US": {
+        "one": "apple",
+        "other": "apples"
+      },
+      "en-AU": {
+        "one": "apple",
+        "other": "apples"
+      },
+      "fr-FR": {
+        "one": "pomme",
+        "other": "pommes"
+      }
+    }
+  },
+  {
+    "id": "apricot",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "apricot",
+        "other": "apricots"
+      },
+      "en-US": {
+        "one": "apricot",
+        "other": "apricots"
+      },
+      "en-AU": {
+        "one": "apricot",
+        "other": "apricots"
+      },
+      "fr-FR": {
+        "one": "abricot",
+        "other": "abricots"
+      }
+    }
+  },
+  {
+    "id": "avocado",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "avocado",
+        "other": "avocados"
+      },
+      "en-US": {
+        "one": "avocado",
+        "other": "avocados"
+      },
+      "en-AU": {
+        "one": "avocado",
+        "other": "avocados"
+      },
+      "fr-FR": {
+        "one": "avocat",
+        "other": "avocats"
+      }
+    }
+  },
+  {
+    "id": "blackberry",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "blackberry",
+        "other": "blackberries"
+      },
+      "en-US": {
+        "one": "blackberry",
+        "other": "blackberries"
+      },
+      "en-AU": {
+        "one": "blackberry",
+        "other": "blackberries"
+      },
+      "fr-FR": {
+        "one": "mûre",
+        "other": "mûres"
+      }
+    }
+  },
+  {
+    "id": "blackcurrant",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "blackcurrant",
+        "other": "blackcurrants"
+      },
+      "en-US": {
+        "one": "blackcurrant",
+        "other": "blackcurrants"
+      },
+      "en-AU": {
+        "one": "blackcurrant",
+        "other": "blackcurrants"
+      },
+      "fr-FR": {
+        "one": "cassis",
+        "other": "cassis"
+      }
+    }
+  },
+  {
+    "id": "blueberry",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "blueberry",
+        "other": "blueberries"
+      },
+      "en-US": {
+        "one": "blueberry",
+        "other": "blueberries"
+      },
+      "en-AU": {
+        "one": "blueberry",
+        "other": "blueberries"
+      },
+      "fr-FR": {
+        "one": "myrtille",
+        "other": "myrtilles"
+      }
+    }
+  },
+  {
+    "id": "cherry",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "cherry",
+        "other": "cherries"
+      },
+      "en-US": {
+        "one": "cherry",
+        "other": "cherries"
+      },
+      "en-AU": {
+        "one": "cherry",
+        "other": "cherries"
+      },
+      "fr-FR": {
+        "one": "cerise",
+        "other": "cerises"
+      }
+    }
+  },
+  {
+    "id": "clementine",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "clementine",
+        "other": "clementines"
+      },
+      "en-US": {
+        "one": "clementine",
+        "other": "clementines"
+      },
+      "en-AU": {
+        "one": "clementine",
+        "other": "clementines"
+      },
+      "fr-FR": {
+        "one": "clémentine",
+        "other": "clémentines"
+      }
+    }
+  },
+  {
+    "id": "fig",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "fig",
+        "other": "figs"
+      },
+      "en-US": {
+        "one": "fig",
+        "other": "figs"
+      },
+      "en-AU": {
+        "one": "fig",
+        "other": "figs"
+      },
+      "fr-FR": {
+        "one": "figue",
+        "other": "figues"
+      }
+    }
+  },
+  {
+    "id": "gooseberry",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "gooseberry",
+        "other": "gooseberries"
+      },
+      "en-US": {
+        "one": "gooseberry",
+        "other": "gooseberries"
+      },
+      "en-AU": {
+        "one": "gooseberry",
+        "other": "gooseberries"
+      },
+      "fr-FR": {
+        "one": "groseille à maquereau",
+        "other": "groseilles à maquereau"
+      }
+    }
+  },
+  {
+    "id": "grape",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "grape",
+        "other": "grapes"
+      },
+      "en-US": {
+        "one": "grape",
+        "other": "grapes"
+      },
+      "en-AU": {
+        "one": "grape",
+        "other": "grapes"
+      },
+      "fr-FR": {
+        "one": "raisin",
+        "other": "raisins"
+      }
+    }
+  },
+  {
+    "id": "grapefruit",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "grapefruit",
+        "other": "grapefruit"
+      },
+      "en-US": {
+        "one": "grapefruit",
+        "other": "grapefruit"
+      },
+      "en-AU": {
+        "one": "grapefruit",
+        "other": "grapefruit"
+      },
+      "fr-FR": {
+        "one": "pamplemousse",
+        "other": "pamplemousses"
+      }
+    }
+  },
+  {
+    "id": "kiwi",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "kiwi",
+        "other": "kiwis"
+      },
+      "en-US": {
+        "one": "kiwifruit",
+        "other": "kiwifruit"
+      },
+      "en-AU": {
+        "one": "kiwifruit",
+        "other": "kiwifruit"
+      },
+      "fr-FR": {
+        "one": "kiwi",
+        "other": "kiwis"
+      }
+    }
+  },
+  {
+    "id": "lemon",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "lemon",
+        "other": "lemons"
+      },
+      "en-US": {
+        "one": "lemon",
+        "other": "lemons"
+      },
+      "en-AU": {
+        "one": "lemon",
+        "other": "lemons"
+      },
+      "fr-FR": {
+        "one": "citron",
+        "other": "citrons"
+      }
+    }
+  },
+  {
+    "id": "lime",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "lime",
+        "other": "limes"
+      },
+      "en-US": {
+        "one": "lime",
+        "other": "limes"
+      },
+      "en-AU": {
+        "one": "lime",
+        "other": "limes"
+      },
+      "fr-FR": {
+        "one": "citron vert",
+        "other": "citrons verts"
+      }
+    }
+  },
+  {
+    "id": "mandarin",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "mandarin",
+        "other": "mandarins"
+      },
+      "en-US": {
+        "one": "mandarin",
+        "other": "mandarins"
+      },
+      "en-AU": {
+        "one": "mandarin",
+        "other": "mandarins"
+      },
+      "fr-FR": {
+        "one": "mandarine",
+        "other": "mandarines"
+      }
+    }
+  },
+  {
+    "id": "mango",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "mango",
+        "other": "mangoes"
+      },
+      "en-US": {
+        "one": "mango",
+        "other": "mangoes"
+      },
+      "en-AU": {
+        "one": "mango",
+        "other": "mangoes"
+      },
+      "fr-FR": {
+        "one": "mangue",
+        "other": "mangues"
+      }
+    }
+  },
+  {
+    "id": "melon",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "melon",
+        "other": "melons"
+      },
+      "en-US": {
+        "one": "cantaloupe",
+        "other": "cantaloupes"
+      },
+      "en-AU": {
+        "one": "rockmelon",
+        "other": "rockmelons"
+      },
+      "fr-FR": {
+        "one": "melon",
+        "other": "melons"
+      }
+    }
+  },
+  {
+    "id": "nectarine",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "nectarine",
+        "other": "nectarines"
+      },
+      "en-US": {
+        "one": "nectarine",
+        "other": "nectarines"
+      },
+      "en-AU": {
+        "one": "nectarine",
+        "other": "nectarines"
+      },
+      "fr-FR": {
+        "one": "nectarine",
+        "other": "nectarines"
+      }
+    }
+  },
+  {
+    "id": "orange",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "orange",
+        "other": "oranges"
+      },
+      "en-US": {
+        "one": "orange",
+        "other": "oranges"
+      },
+      "en-AU": {
+        "one": "orange",
+        "other": "oranges"
+      },
+      "fr-FR": {
+        "one": "orange",
+        "other": "oranges"
+      }
+    }
+  },
+  {
+    "id": "passionfruit",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "passion fruit",
+        "other": "passion fruit"
+      },
+      "en-US": {
+        "one": "passion fruit",
+        "other": "passion fruit"
+      },
+      "en-AU": {
+        "one": "passionfruit",
+        "other": "passionfruit"
+      },
+      "fr-FR": {
+        "one": "fruit de la passion",
+        "other": "fruits de la passion"
+      }
+    }
+  },
+  {
+    "id": "peach",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "peach",
+        "other": "peaches"
+      },
+      "en-US": {
+        "one": "peach",
+        "other": "peaches"
+      },
+      "en-AU": {
+        "one": "peach",
+        "other": "peaches"
+      },
+      "fr-FR": {
+        "one": "pêche",
+        "other": "pêches"
+      }
+    }
+  },
+  {
+    "id": "pear",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "pear",
+        "other": "pears"
+      },
+      "en-US": {
+        "one": "pear",
+        "other": "pears"
+      },
+      "en-AU": {
+        "one": "pear",
+        "other": "pears"
+      },
+      "fr-FR": {
+        "one": "poire",
+        "other": "poires"
+      }
+    }
+  },
+  {
+    "id": "plum",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "plum",
+        "other": "plums"
+      },
+      "en-US": {
+        "one": "plum",
+        "other": "plums"
+      },
+      "en-AU": {
+        "one": "plum",
+        "other": "plums"
+      },
+      "fr-FR": {
+        "one": "prune",
+        "other": "prunes"
+      }
+    }
+  },
+  {
+    "id": "pomegranate",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "pomegranate",
+        "other": "pomegranates"
+      },
+      "en-US": {
+        "one": "pomegranate",
+        "other": "pomegranates"
+      },
+      "en-AU": {
+        "one": "pomegranate",
+        "other": "pomegranates"
+      },
+      "fr-FR": {
+        "one": "grenade",
+        "other": "grenades"
+      }
+    }
+  },
+  {
+    "id": "quince",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "quince",
+        "other": "quinces"
+      },
+      "en-US": {
+        "one": "quince",
+        "other": "quinces"
+      },
+      "en-AU": {
+        "one": "quince",
+        "other": "quinces"
+      },
+      "fr-FR": {
+        "one": "coing",
+        "other": "coings"
+      }
+    }
+  },
+  {
+    "id": "raspberry",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "raspberry",
+        "other": "raspberries"
+      },
+      "en-US": {
+        "one": "raspberry",
+        "other": "raspberries"
+      },
+      "en-AU": {
+        "one": "raspberry",
+        "other": "raspberries"
+      },
+      "fr-FR": {
+        "one": "framboise",
+        "other": "framboises"
+      }
+    }
+  },
+  {
+    "id": "redcurrant",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "redcurrant",
+        "other": "redcurrants"
+      },
+      "en-US": {
+        "one": "red currant",
+        "other": "red currants"
+      },
+      "en-AU": {
+        "one": "redcurrant",
+        "other": "redcurrants"
+      },
+      "fr-FR": {
+        "one": "groseille",
+        "other": "groseilles"
+      }
+    }
+  },
+  {
+    "id": "rhubarb",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "rhubarb",
+        "other": "rhubarb"
+      },
+      "en-US": {
+        "one": "rhubarb",
+        "other": "rhubarb"
+      },
+      "en-AU": {
+        "one": "rhubarb",
+        "other": "rhubarb"
+      },
+      "fr-FR": {
+        "one": "rhubarbe",
+        "other": "rhubarbe"
+      }
+    }
+  },
+  {
+    "id": "strawberry",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "strawberry",
+        "other": "strawberries"
+      },
+      "en-US": {
+        "one": "strawberry",
+        "other": "strawberries"
+      },
+      "en-AU": {
+        "one": "strawberry",
+        "other": "strawberries"
+      },
+      "fr-FR": {
+        "one": "fraise",
+        "other": "fraises"
+      }
+    }
+  },
+  {
+    "id": "watermelon",
+    "category": "fruit",
+    "names": {
+      "en-GB": {
+        "one": "watermelon",
+        "other": "watermelons"
+      },
+      "en-US": {
+        "one": "watermelon",
+        "other": "watermelons"
+      },
+      "en-AU": {
+        "one": "watermelon",
+        "other": "watermelons"
+      },
+      "fr-FR": {
+        "one": "pastèque",
+        "other": "pastèques"
+      }
+    }
+  }
+]

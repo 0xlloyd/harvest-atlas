@@ -1,0 +1,264 @@
+{
+  "region": "US-IA",
+  "entries": [
+    {
+      "produce": "apple",
+      "available": [7, 8, 9, 10],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "apricot",
+      "available": [7, 8],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "asparagus",
+      "available": [5, 6, 7],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "aubergine",
+      "available": [8, 9],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "blueberry",
+      "available": [6, 7, 8, 9],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "broccoli",
+      "available": [6, 7],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "cabbage",
+      "available": [6, 7, 8, 9, 10],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "carrot",
+      "available": [6, 7, 8, 9, 10],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "cauliflower",
+      "available": [6, 7],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "cherry",
+      "available": [6, 7],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "courgette",
+      "available": [7, 8, 9],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "cucumber",
+      "available": [7, 8],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "grape",
+      "available": [9, 10],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "green-bean",
+      "available": [6, 7, 8, 9],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart row is \"Beans\". Chart covers May–Oct only."
+    },
+    {
+      "produce": "kohlrabi",
+      "available": [8, 9, 10],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "leek",
+      "available": [6, 7, 8, 9],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "lettuce",
+      "available": [5, 6, 7, 8, 9, 10],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "melon",
+      "available": [8, 9, 10],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Cantaloupe. Chart covers May–Oct only."
+    },
+    {
+      "produce": "okra",
+      "available": [8, 9],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "onion",
+      "available": [6, 7, 8, 9],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "peach",
+      "available": [8],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "pear",
+      "available": [8, 9],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "pepper",
+      "available": [7, 8, 9, 10],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "plum",
+      "available": [8, 9],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "potato",
+      "available": [6, 7, 8, 9, 10],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "pumpkin",
+      "available": [9, 10],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "radish",
+      "available": [5, 6, 7, 8, 9],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "raspberry",
+      "available": [7, 8, 9, 10],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "rhubarb",
+      "available": [5, 6, 7],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "spinach",
+      "available": [5, 6, 7, 8, 9, 10],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "strawberry",
+      "available": [6],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "swede",
+      "available": [8, 9],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "sweet-potato",
+      "available": [8, 9, 10],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "sweetcorn",
+      "available": [7, 8, 9],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "tomato",
+      "available": [7, 8, 9],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "turnip",
+      "available": [9, 10],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    },
+    {
+      "produce": "watermelon",
+      "available": [8, 9, 10],
+      "sources": ["us-ia-idals-harvest-calendar"],
+      "confidence": "medium",
+      "note": "Chart covers May–Oct only."
+    }
+  ]
+}

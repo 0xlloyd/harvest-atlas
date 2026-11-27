@@ -1,0 +1,429 @@
+{
+  "region": "FR",
+  "entries": [
+    {
+      "produce": "apple",
+      "available": [8, 9, 10, 11, 12, 1, 2, 3, 4],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Sources give one range (Aug–Apr) without separating fresh and stored crop; Greenpeace also lists June."
+    },
+    {
+      "produce": "apricot",
+      "available": [6, 7, 8],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high"
+    },
+    {
+      "produce": "artichoke",
+      "available": [5, 6, 7, 8, 9],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Greenpeace starts in April."
+    },
+    {
+      "produce": "asparagus",
+      "available": [4, 5, 6],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Greenpeace gives March–July."
+    },
+    {
+      "produce": "aubergine",
+      "available": [6, 7, 8, 9],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Greenpeace gives May–October."
+    },
+    {
+      "produce": "beetroot",
+      "available": [10, 11, 12, 1, 2, 3],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "medium",
+      "note": "ADEME gives October–March; Greenpeace lists beetroot all year."
+    },
+    {
+      "produce": "blackberry",
+      "available": [8, 9],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high"
+    },
+    {
+      "produce": "blackcurrant",
+      "available": [6, 7, 8],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high"
+    },
+    {
+      "produce": "blueberry",
+      "available": [7, 8, 9],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Greenpeace extends to October."
+    },
+    {
+      "produce": "broccoli",
+      "available": [9, 10, 11],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "medium",
+      "note": "ADEME gives September–November; Greenpeace gives June–November."
+    },
+    {
+      "produce": "brussels-sprout",
+      "available": [10, 11, 12, 1, 2, 3],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Greenpeace starts in September."
+    },
+    {
+      "produce": "butternut-squash",
+      "available": [9, 10, 11, 12, 1],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "medium",
+      "note": "Both sources list generic 'courge' (winter squash), not butternut specifically; Greenpeace starts in August."
+    },
+    {
+      "produce": "cabbage",
+      "available": [10, 11, 12, 1, 2, 3],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Greenpeace lists chou blanc from August."
+    },
+    {
+      "produce": "carrot",
+      "available": [9, 10, 11, 12, 1, 2, 3],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "medium",
+      "note": "ADEME gives September–March; Greenpeace lists carrots all year."
+    },
+    {
+      "produce": "cauliflower",
+      "available": [9, 10, 11, 12, 1, 2, 3],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "medium",
+      "note": "ADEME gives September–March; Greenpeace gives March–May and September–November."
+    },
+    {
+      "produce": "celeriac",
+      "available": [10, 11, 12, 1, 2, 3],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "medium",
+      "note": "ADEME lists unspecified 'céleri'; its months match Greenpeace's céleri-rave exactly."
+    },
+    {
+      "produce": "celery",
+      "available": [7, 8, 9, 10, 11, 12, 1],
+      "sources": ["fr-greenpeace-calendrier"],
+      "confidence": "low",
+      "note": "Céleri-branche, Greenpeace only."
+    },
+    {
+      "produce": "chard",
+      "available": [6, 7, 8, 9, 10, 11],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "medium",
+      "note": "ADEME gives June–November; Greenpeace gives March–October."
+    },
+    {
+      "produce": "cherry",
+      "available": [6, 7],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Greenpeace starts in May."
+    },
+    {
+      "produce": "chicory",
+      "available": [10, 1, 2, 3, 4, 5],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "medium",
+      "note": "ADEME lists October and January–May (no November–December); Greenpeace gives October–April."
+    },
+    {
+      "produce": "clementine",
+      "available": [11, 12, 1, 2],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Grown in Corsica."
+    },
+    {
+      "produce": "courgette",
+      "available": [5, 6, 7, 8, 9, 10],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high"
+    },
+    {
+      "produce": "cucumber",
+      "available": [5, 6, 7, 8, 9, 10],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Greenpeace starts in April."
+    },
+    {
+      "produce": "fennel",
+      "available": [4, 6, 7, 8, 9, 10, 11],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Greenpeace gives June–November; ADEME also lists April."
+    },
+    {
+      "produce": "fig",
+      "available": [7, 8, 9, 10],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high"
+    },
+    {
+      "produce": "garlic",
+      "available": [7, 8, 9, 10, 11, 12],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "medium",
+      "note": "ADEME gives July–December; Greenpeace lists garlic all year."
+    },
+    {
+      "produce": "grape",
+      "available": [9, 10],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Greenpeace starts in August."
+    },
+    {
+      "produce": "grapefruit",
+      "available": [2, 3, 4, 5, 6],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Corsican pomelo; Greenpeace (metropolitan production only) gives January–June."
+    },
+    {
+      "produce": "green-bean",
+      "available": [6, 7, 8, 9, 10],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high"
+    },
+    {
+      "produce": "jerusalem-artichoke",
+      "available": [11, 12, 1, 2],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Greenpeace gives October–March."
+    },
+    {
+      "produce": "kiwi",
+      "available": [11, 12, 1, 2, 3],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high"
+    },
+    {
+      "produce": "leek",
+      "available": [9, 10, 11, 12, 1, 2, 3, 4],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high"
+    },
+    {
+      "produce": "lemon",
+      "available": [1, 2],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "medium",
+      "note": "ADEME gives January–February; Greenpeace lists lemons in most months (October–April and June)."
+    },
+    {
+      "produce": "lettuce",
+      "available": [5, 6, 7, 8, 9],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Greenpeace gives April–October."
+    },
+    {
+      "produce": "mandarin",
+      "available": [11, 12, 1, 2],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Grown in Corsica."
+    },
+    {
+      "produce": "melon",
+      "available": [6, 7, 8, 9],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high"
+    },
+    {
+      "produce": "nectarine",
+      "available": [8, 9],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Greenpeace gives July–August."
+    },
+    {
+      "produce": "onion",
+      "available": [9, 10, 11, 12, 1, 2, 3, 4],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "medium",
+      "note": "ADEME gives September–April; Greenpeace lists onions all year."
+    },
+    {
+      "produce": "orange",
+      "available": [1, 2, 3],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "medium",
+      "note": "ADEME gives January–March; Greenpeace (metropolitan production only, i.e. Corsica) gives November–March."
+    },
+    {
+      "produce": "parsnip",
+      "available": [10, 11, 12, 1, 2, 3],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Greenpeace starts in September."
+    },
+    {
+      "produce": "pea",
+      "available": [5, 6, 7],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Greenpeace starts in April."
+    },
+    {
+      "produce": "peach",
+      "available": [6, 7, 8, 9],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high"
+    },
+    {
+      "produce": "pear",
+      "available": [8, 9, 10, 11, 12, 1, 2, 3],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Greenpeace gives July–April."
+    },
+    {
+      "produce": "pepper",
+      "available": [6, 7, 8, 9],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high"
+    },
+    {
+      "produce": "plum",
+      "available": [7, 8, 9],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Greenpeace starts in June."
+    },
+    {
+      "produce": "potato",
+      "available": [4, 5, 6, 7, 8],
+      "storage": [9, 10, 11, 12, 1, 2, 3],
+      "sources": ["fr-greenpeace-calendrier"],
+      "confidence": "low",
+      "note": "Greenpeace only: 'pomme de terre primeur' April–August and 'pomme de terre de conservation' September–March."
+    },
+    {
+      "produce": "pumpkin",
+      "available": [9, 10, 11, 12, 1],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Potiron; Greenpeace gives September–December."
+    },
+    {
+      "produce": "quince",
+      "available": [10],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Greenpeace gives September–November."
+    },
+    {
+      "produce": "radish",
+      "available": [3, 4, 5, 6],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "medium",
+      "note": "ADEME gives March–June; Greenpeace gives February–December."
+    },
+    {
+      "produce": "raspberry",
+      "available": [6, 7, 8],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Greenpeace also lists October."
+    },
+    {
+      "produce": "red-cabbage",
+      "available": [8, 9, 10, 11, 12, 1, 2],
+      "sources": ["fr-greenpeace-calendrier"],
+      "confidence": "low"
+    },
+    {
+      "produce": "redcurrant",
+      "available": [6, 7, 8],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high"
+    },
+    {
+      "produce": "rhubarb",
+      "available": [4, 5, 6],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Greenpeace gives May–July."
+    },
+    {
+      "produce": "shallot",
+      "available": [10, 11, 12],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high"
+    },
+    {
+      "produce": "spinach",
+      "available": [9, 10, 11, 12, 1, 2, 3, 4, 5],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "medium",
+      "note": "ADEME gives September–May; Greenpeace lists spinach all year."
+    },
+    {
+      "produce": "strawberry",
+      "available": [5, 6, 7],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Greenpeace extends to August."
+    },
+    {
+      "produce": "swede",
+      "available": [10, 11, 12],
+      "sources": ["fr-greenpeace-calendrier"],
+      "confidence": "low"
+    },
+    {
+      "produce": "sweet-potato",
+      "available": [9, 10],
+      "sources": ["fr-greenpeace-calendrier"],
+      "confidence": "low"
+    },
+    {
+      "produce": "sweetcorn",
+      "available": [7, 8, 9],
+      "sources": ["fr-ademe-impactco2"],
+      "confidence": "medium",
+      "note": "ADEME lists 'maïs' as a vegetable."
+    },
+    {
+      "produce": "tomato",
+      "available": [6, 7, 8, 9],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Greenpeace gives May–October; early fruit is often from greenhouses."
+    },
+    {
+      "produce": "turnip",
+      "available": [10, 11, 12, 1, 2, 3, 4, 5],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high",
+      "note": "Greenpeace extends to June."
+    },
+    {
+      "produce": "watercress",
+      "available": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "sources": ["fr-ademe-impactco2"],
+      "confidence": "medium"
+    },
+    {
+      "produce": "watermelon",
+      "available": [6, 7, 8, 9],
+      "sources": ["fr-ademe-impactco2", "fr-greenpeace-calendrier"],
+      "confidence": "high"
+    }
+  ]
+}
